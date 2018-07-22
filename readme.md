@@ -1,7 +1,3 @@
-# About in28Minutes
-- What are we doing next - [in28Minutes - Course Roadmap]()
-- Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way]()
-- in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ]()
 
 # Best Selling Courses
 - [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/?couponCode=MAILCHIMP)
@@ -17,6 +13,26 @@
 - [Mockito Tutorial : Learn mocking with 25 Junit Examples](https://www.udemy.com/mockito-tutorial-with-junit-examples/?couponCode=MAILCHIMP)
 - [Java EE Made Easy - Patterns, Architecture and Frameworks](https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=MAILCHIMP)
 - [Maven Tutorial - Manage Java Dependencies in 20 Steps](https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAILCHIMP)
+
+# Introduction to Frameworks
+- [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
+- [Spring Boot for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps)
+- [Spring MVC in 10 Steps](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
+- [JPA and Hibernate in 10 Steps](https://courses.in28minutes.com/p/jpa-and-hibernate-tutorial-for-beginners-with-spring-boot)
+- [Eclipse Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/eclipse-tutorial-for-beginners)
+- [Maven Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps)
+- [JUnit Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/junit-tutorial-for-beginners)
+- [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
+- [Spring Data Rest]()
+- [Spring Cloud]()
+- [Spring Batch]()
+- [Spring Data?]()
+
+# About in28Minutes
+- What are we doing next - [in28Minutes - Course Roadmap]()
+- Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way]()
+- in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ]()
+
 
 # Trends/Tips
 - [in28Minutes - Which Course To Do Next?]()
@@ -54,21 +70,6 @@
 - [Microservices and Automated Testing]()
 - [Why should you create an archetype?]()
 - [Monolith to Microservices Journey?]()
-
-
-# Introduction to Frameworks
-- [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
-- [Spring Boot for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps)
-- [Spring MVC in 10 Steps](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
-- [JPA and Hibernate in 10 Steps](https://courses.in28minutes.com/p/jpa-and-hibernate-tutorial-for-beginners-with-spring-boot)
-- [Eclipse Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/eclipse-tutorial-for-beginners)
-- [Maven Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps)
-- [JUnit Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/junit-tutorial-for-beginners)
-- [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
-- [Spring Data Rest]()
-- [Spring Cloud]()
-- [Spring Batch]()
-- [Spring Data?]()
 
 # Design
 - [Introduction to Design Patterns in 25 Minutes](https://www.youtube.com/watch?v=Vp7q_pE7Fzg)
