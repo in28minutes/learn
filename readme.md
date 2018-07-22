@@ -1,4 +1,3 @@
-
 # Best Selling Courses
 - [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/?couponCode=MAILCHIMP)
 - [Spring Master Class - Beginner to Expert](https://www.udemy.com/spring-tutorial-for-beginners/?couponCode=MAILCHIMP)
@@ -13,6 +12,11 @@
 - [Mockito Tutorial : Learn mocking with 25 Junit Examples](https://www.udemy.com/mockito-tutorial-with-junit-examples/?couponCode=MAILCHIMP)
 - [Java EE Made Easy - Patterns, Architecture and Frameworks](https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=MAILCHIMP)
 - [Maven Tutorial - Manage Java Dependencies in 20 Steps](https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAILCHIMP)
+
+# Course Platforms
+- [Udemy](https://www.udemy.com/user/in28minutes/)
+- [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
+- [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
 
 # Introduction to Frameworks
 - [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
