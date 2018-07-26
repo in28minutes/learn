@@ -1,3 +1,24 @@
+# in28Minutes Learning Guides
+
+> Full Stack Frameworks, Industry Trends, Interview Guides and Best Practices on Design and Architecture
+
+https://courses.in28minutes.com/p/in28minutes-course-guide
+
+Access our Learning Guides for Free
+ - Best Practices - Architecture, Design and Frameworks
+ - Spring Interview Guide
+ - Design Patterns For Beginners
+ - Securing Your Application - OWASP Top 10
+ - Agile And Design Evolution
+ - How to be a good Software Architect
+ - SOLID Principles
+ - Layering In Java Applications
+ - J2EE(Java EE) Design Patterns and Architecture
+ - Code Quality
+ - Load And Performance Testing Best Practices
+ - Code Review Best Practices
+ - Unit Testing Best Practices
+
 # Best Selling Courses
 - [Spring, Spring Boot, REST, SOAP & Microservices Master Class](https://in28minutes1.teachable.com/p/complete-spring-course-bundle/?coupon_code=HALFOFF)
 - [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/?couponCode=MAILCHIMP)
@@ -34,9 +55,9 @@
 - [Spring Data?]()
 
 # About in28Minutes
+- Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way](https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-Way)
+- in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ](https://github.com/in28minutes/in28minutes-initiatives/blob/master/The-in28Minutes-TroubleshootingGuide-And-FAQ)
 - What are we doing next - [in28Minutes - Course Roadmap]()
-- Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way]()
-- in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ]()
 
 
 # Trends/Tips
