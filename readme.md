@@ -20,9 +20,24 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
  - Code Review Best Practices
  - Unit Testing Best Practices
 
+# TOC
+- [Best Selling Courses](#best-selling-courses)
+- [Course Platforms](#course-platforms)
+- [Introduction to Frameworks](#introduction-to-frameworks)
+- [Trends/Tips](#trends-tips)
+- [Microservices](#microservices)
+- [Design](#design)
+- [Code Quality](#code-quality)
+- [Architecture](#architecture)
+- [Best Practices](#best-practices)
+- [Terminology](#terminology)
+- [FAQ](#faq)
+- [About in28Minutes](#about-in28minutes)
+
+
 # Best Selling Courses
 
-> 200,000 Learners doing 19 awesome Courses
+> 200,000 Learners doing 19 Awesome Courses
 
 - [Spring, Spring Boot, REST, SOAP & Microservices Master Class](https://in28minutes1.teachable.com/p/complete-spring-course-bundle/?coupon_code=HALFOFF)
 - [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/?couponCode=MAILCHIMP)
@@ -57,12 +72,6 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 - [Spring Cloud]()
 - [Spring Batch]()
 - [Spring Data?]()
-
-# About in28Minutes
-- Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way](https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-Way)
-- in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ](https://github.com/in28minutes/in28minutes-initiatives/blob/master/The-in28Minutes-TroubleshootingGuide-And-FAQ)
-- What are we doing next - [in28Minutes - Course Roadmap]()
-
 
 # Trends/Tips
 - [in28Minutes - Which Course To Do Next?]()
@@ -190,3 +199,9 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 - [Spring Boot Starter Projects]()
 - [Spring Data REST]()
 - [Spring Boot Interview Questions]()
+
+# About in28Minutes
+
+- Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way](https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-Way)
+- in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ](https://github.com/in28minutes/in28minutes-initiatives/blob/master/The-in28Minutes-TroubleshootingGuide-And-FAQ)
+- What are we doing next - [in28Minutes - Course Roadmap]()
