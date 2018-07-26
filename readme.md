@@ -1,25 +1,25 @@
 # in28Minutes Learning Guides
 
-> Full Stack Frameworks, Industry Trends, Interview Guides and Best Practices on Design and Architecture
+> Presentations and Notes on Full Stack Frameworks, Industry Trends, Interview Guides and Best Practices on Design and Architecture
 
 Access our Learning Guides for Free
 
 https://courses.in28minutes.com/p/in28minutes-course-guide
 
- - Best Practices - Architecture, Design and Frameworks
- - Spring Interview Guide
  - Design Patterns For Beginners
+ - Best Practices - Architecture, Design and Frameworks
+ - How to be a good Software Architect?
+ - Spring Interview Guide
  - Securing Your Application - OWASP Top 10
- - Agile And Design Evolution
- - How to be a good Software Architect
  - SOLID Principles
- - Layering In Java Applications
- - J2EE(Java EE) Design Patterns and Architecture
  - Code Quality
  - Load And Performance Testing Best Practices
  - Code Review Best Practices
  - Unit Testing Best Practices
-
+ - Agile And Design Evolution
+ - Layering In Java Applications
+ - J2EE(Java EE) Design Patterns and Architecture
+ 
 # TOC
 - [Best Selling Courses](#best-selling-courses)
 - [Course Platforms](#course-platforms)
