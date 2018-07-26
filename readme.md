@@ -2,9 +2,10 @@
 
 > Full Stack Frameworks, Industry Trends, Interview Guides and Best Practices on Design and Architecture
 
+Access our Learning Guides for Free
+
 https://courses.in28minutes.com/p/in28minutes-course-guide
 
-Access our Learning Guides for Free
  - Best Practices - Architecture, Design and Frameworks
  - Spring Interview Guide
  - Design Patterns For Beginners
@@ -20,6 +21,9 @@ Access our Learning Guides for Free
  - Unit Testing Best Practices
 
 # Best Selling Courses
+
+> 200,000 Learners doing 19 awesome Courses
+
 - [Spring, Spring Boot, REST, SOAP & Microservices Master Class](https://in28minutes1.teachable.com/p/complete-spring-course-bundle/?coupon_code=HALFOFF)
 - [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/?couponCode=MAILCHIMP)
 - [Spring Master Class - Beginner to Expert](https://www.udemy.com/spring-tutorial-for-beginners/?couponCode=MAILCHIMP)
