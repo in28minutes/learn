@@ -9,7 +9,7 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
  
 # TOC
 - [Best Selling Courses](#best-selling-courses)
-- [Learn Frameworks in 10 Steps](#introduction-to-frameworks)
+- [Learn Frameworks in 10 Steps - Spring, Spring Boot, Maven & More..](#introduction-to-frameworks)
 - [Understand Industry Trends and Tips](#trends-tips)
 - [Learn about Architecture](#architecture)
 - [Best Practices](#best-practices)
