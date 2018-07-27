@@ -75,23 +75,23 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 - [Maven Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps)
 - [JUnit Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/junit-tutorial-for-beginners)
 - [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
-- [Spring Data Rest]()
-- [Spring Cloud]()
-- [Spring Batch]()
-- [Spring Data?]()
+- [Spring Data Rest] - Coming Soon
+- [Spring Cloud] - Coming Soon
+- [Spring Batch] - Coming Soon
+- [Spring Data?] - Coming Soon
 
 # Trends/Tips
-- [in28Minutes - Which Course To Do Next?]()
-- [5 Languages to Learn]()
-- [5 Frameworks to Learn]()
-- [5 Tools to Learn]()
-- [6 Java Unit Testing Frameworks to Learn]()
-- [5 Things to Think when you Code]()
-- [5 Important Coding Standards]()
-- [5 Questions about Continuous Integration]()
-- [5 Kinds of Automation Tests]()
-- [5 Tips for Simple Design]()
-- [5 Tips for Design Reviews]()
+- [in28Minutes - Which Course To Do Next?] - Coming Soon
+- [5 Languages to Learn] - Coming Soon
+- [5 Frameworks to Learn] - Coming Soon
+- [5 Tools to Learn] - Coming Soon
+- [6 Java Unit Testing Frameworks to Learn] - Coming Soon
+- [5 Things to Think when you Code] - Coming Soon
+- [5 Important Coding Standards] - Coming Soon
+- [5 Questions about Continuous Integration] - Coming Soon
+- [5 Kinds of Automation Tests] - Coming Soon
+- [5 Tips for Simple Design] - Coming Soon
+- [5 Tips for Design Reviews] - Coming Soon
 - [10 Maven Tips](https://www.youtube.com/watch?v=exNl7USPfsg)
 - [10 Eclipse Tips for Beginners](https://www.youtube.com/watch?v=dN9GYsG1v_c)
 - [How to become a good programmer?](https://www.youtube.com/watch?v=iJe1Ru4bJQo)
@@ -99,116 +99,116 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 - [Should I be an expert at all Design Patterns?](https://www.youtube.com/watch?v=8lEfj1cmBJ4&t=27s)
 
 # Microservices
-- [Microservices vs SOA]()
-- [Cloud Native Applications?]()
-- [12 Factor Apps]()
-- [Centralized Configuration Management]()
-- [Service Discovery ]()
-- [Fault Tolerance]()
-- [Monitoring]()
-- [Centralized Logging]()
-- [API Gateway]()
-- [Auto Scaling]()
-- [Eventual Consistency]()
-- [Why do we use Queues and Asynchronous Communication? ]()
-- [What is an Event Driven Architecture?]()
-- [Auto Scaling with Containerization and Kubernetes]()
-- [Microservices and Automated Testing]()
-- [Why should you create an archetype?]()
-- [Monolith to Microservices Journey?]()
+- [Microservices vs SOA] - Coming Soon
+- [Cloud Native Applications?] - Coming Soon
+- [12 Factor Apps] - Coming Soon
+- [Centralized Configuration Management] - Coming Soon
+- [Service Discovery ] - Coming Soon
+- [Fault Tolerance] - Coming Soon
+- [Monitoring] - Coming Soon
+- [Centralized Logging] - Coming Soon
+- [API Gateway] - Coming Soon
+- [Auto Scaling] - Coming Soon
+- [Eventual Consistency] - Coming Soon
+- [Why do we use Queues and Asynchronous Communication? ] - Coming Soon
+- [What is an Event Driven Architecture?] - Coming Soon
+- [Auto Scaling with Containerization and Kubernetes] - Coming Soon
+- [Microservices and Automated Testing] - Coming Soon
+- [Why should you create an archetype?] - Coming Soon
+- [Monolith to Microservices Journey?] - Coming Soon
 
 # Design
 - [Introduction to Design Patterns in 25 Minutes](https://www.youtube.com/watch?v=Vp7q_pE7Fzg)
 - [Agile and Evolutionary Design](https://www.youtube.com/watch?v=gt6js9zl1Rs)
 - [Transaction Management](https://www.youtube.com/watch?v=HcjHJLEbtRs)
-- [Abstraction]()
-- [Encapsulation]()
-- [Cohesion]()
-- [Coupling]()
-- [SRP]()
-- [OCP]()
-- [DIP]()
-- [Seperation of Concerns]()
-- [DRY]()
-- [Readability]()
-- [Cross Cutting Concerns]()
-- [AOP]()
-- [Redundancy]()
-- [Modularity]()
+- [Abstraction] - Coming Soon
+- [Encapsulation] - Coming Soon
+- [Cohesion] - Coming Soon
+- [Coupling] - Coming Soon
+- [SRP] - Coming Soon
+- [OCP] - Coming Soon
+- [DIP] - Coming Soon
+- [Seperation of Concerns] - Coming Soon
+- [DRY] - Coming Soon
+- [Readability] - Coming Soon
+- [Cross Cutting Concerns] - Coming Soon
+- [AOP] - Coming Soon
+- [Redundancy] - Coming Soon
+- [Modularity] - Coming Soon
 
 
 # Code Quality
-- [Technical Debt]()
-- [Code Coverage]()
-- [Code Quality]()
-- [Code Duplication]()
-- [Code Smells]()
-- [Coding Standards]()
-- [Code Complexity]()
-- [Legacy Code]()
+- [Technical Debt] - Coming Soon
+- [Code Coverage] - Coming Soon
+- [Code Quality] - Coming Soon
+- [Code Duplication] - Coming Soon
+- [Code Smells] - Coming Soon
+- [Coding Standards] - Coming Soon
+- [Code Complexity] - Coming Soon
+- [Legacy Code] - Coming Soon
 - [Introduction to Code Quality](https://www.youtube.com/watch?v=M4Ip6joERv4)
 
 # Architecture
-- [What is Software Architecture?]()
-- [5 Qualities of Great Architects]()
-- [5 Responsibilities of Architects]()
-- [Non Functional Requirements]()
-	- [Security]()
-	- [Performance]()
-	- [Reliability]()
-	- [Availability]()
-	- [Testability]()
-	- [Scalability]()
-	- [Maintainability]()
-	- [Reusability]()
-	- [Portability]()
+- [What is Software Architecture?] - Coming Soon
+- [5 Qualities of Great Architects] - Coming Soon
+- [5 Responsibilities of Architects] - Coming Soon
+- [Non Functional Requirements] - Coming Soon
+	- [Security] - Coming Soon
+	- [Performance] - Coming Soon
+	- [Reliability] - Coming Soon
+	- [Availability] - Coming Soon
+	- [Testability] - Coming Soon
+	- [Scalability] - Coming Soon
+	- [Maintainability] - Coming Soon
+	- [Reusability] - Coming Soon
+	- [Portability] - Coming Soon
 
 # Best Practices
 - [Modern Development Practices](https://www.youtube.com/watch?v=0Kqzfyp-w4s)
 - [DevOps](https://www.youtube.com/watch?v=I-JkJZruWyU)
 - [TDD](https://www.youtube.com/watch?v=45T32_ImO2c&list=PLBBog2r6uMCSa9_mNISSpTcbTcKlMAe6t)
-- [Refactoring]()
-- [In Memory Database]()
-- [Embedded Servers]()
+- [Refactoring] - Coming Soon
+- [In Memory Database] - Coming Soon
+- [Embedded Servers] - Coming Soon
 - [Static Code Analysis](https://www.youtube.com/watch?v=rB_BaftN3nE)
 - [Coding Standards](https://www.youtube.com/watch?v=XRKDpQ3b27M)
 - [Code Review Best Practices](https://www.youtube.com/watch?v=hVJGu0xdXII)
 - [Unit Testing Best Practices](https://www.youtube.com/watch?v=BukAouJgEjo)
 - [Continuous Integration](https://www.youtube.com/watch?v=0uJvjygC0Co)
 - [Continuous Delivery](https://www.youtube.com/watch?v=cI5ELFlLDPY)
-- [Web Application Security - OWASP TOP 10]()
-- [HATEOAS]()
+- [Web Application Security - OWASP TOP 10] - Coming Soon
+- [HATEOAS] - Coming Soon
 - [Agile Myths](https://www.youtube.com/watch?v=KQ7Qw_ACFgI)
-- [What is a Prototype/Vertical Slice?]()
-- [Why do we need layering of Applications?]()
-- [What is Mocking?]()
-- [Evolutionary Design]()
-- [Code First]()
-- [Contract First]()
-- [Vertical Slice]()
+- [What is a Prototype/Vertical Slice?] - Coming Soon
+- [Why do we need layering of Applications?] - Coming Soon
+- [What is Mocking?] - Coming Soon
+- [Evolutionary Design] - Coming Soon
+- [Code First] - Coming Soon
+- [Contract First] - Coming Soon
+- [Vertical Slice] - Coming Soon
 
 # Terminology
-- [What is Cloud?]()
-- [Component]()
-- [Deployment]()
-- [API]()
-- [Asynchonous Messaging]()
+- [What is Cloud?] - Coming Soon
+- [Component] - Coming Soon
+- [Deployment] - Coming Soon
+- [API] - Coming Soon
+- [Asynchonous Messaging] - Coming Soon
 
 # FAQ
-- [Spring - What is Dependency?]()
-- [Spring - What is Dependency Injection?]()
-- [Spring - What is Inversion of Control?]()
-- [Spring - What is Component Scan?]()
-- [Spring Initializr]()
+- [Spring - What is Dependency?] - Coming Soon
+- [Spring - What is Dependency Injection?] - Coming Soon
+- [Spring - What is Inversion of Control?] - Coming Soon
+- [Spring - What is Component Scan?] - Coming Soon
+- [Spring Initializr] - Coming Soon
 - [Spring vs Spring Boot](https://www.youtube.com/watch?v=bNFoN956P2A)
 - [Spring Boot vs Spring MVC](https://www.youtube.com/watch?v=ILRmPKEL4U0)
 - [Spring Boot Auto Configuration](https://www.youtube.com/watch?v=J_kTukE7hr8)
-- [Spring Boot Starter Projects]()
-- [Spring Data REST]()
-- [Spring Boot Interview Questions]()
+- [Spring Boot Starter Projects] - Coming Soon
+- [Spring Data REST] - Coming Soon
+- [Spring Boot Interview Questions] - Coming Soon
 
 # About in28Minutes
 
 - Our Journey to 100,000 Students, Our Love and Beliefs - [The in28Minutes Way](https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-Way)
 - in28Minutes Troubleshooting Guide and FAQ - [The-in28Minutes-TroubleshootingGuide-And-FAQ](https://github.com/in28minutes/in28minutes-initiatives/blob/master/The-in28Minutes-TroubleshootingGuide-And-FAQ)
-- What are we doing next - [in28Minutes - Course Roadmap]()
+- What are we doing next - [in28Minutes - Course Roadmap] - Coming Soon
