@@ -1,5 +1,28 @@
 # in28Minutes Learning Guides
 
+> Presentations and Notes on Full Stack Development, Industry Trends, Interview Guides and Best Practices on Design and Architecture. Learn about Design Patterns, Security and more..
+
+Access our Learning Guides for Free
+
+https://courses.in28minutes.com/p/in28minutes-course-guide
+
+ 
+# TOC
+- [Best Selling Courses](#best-selling-courses)
+- [Course Platforms](#course-platforms)
+- [Introduction to Frameworks](#introduction-to-frameworks)
+- [Trends/Tips](#trends-tips)
+- [Microservices](#microservices)
+- [Design](#design)
+- [Code Quality](#code-quality)
+- [Architecture](#architecture)
+- [Best Practices](#best-practices)
+- [Terminology](#terminology)
+- [FAQ](#faq)
+- [About in28Minutes](#about-in28minutes)
+
+# in28Minutes Learning Guides
+
 > Presentations and Notes on Full Stack Frameworks, Industry Trends, Interview Guides and Best Practices on Design and Architecture
 
 Access our Learning Guides for Free
@@ -19,21 +42,6 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
  - Agile And Design Evolution
  - Layering In Java Applications
  - J2EE(Java EE) Design Patterns and Architecture
- 
-# TOC
-- [Best Selling Courses](#best-selling-courses)
-- [Course Platforms](#course-platforms)
-- [Introduction to Frameworks](#introduction-to-frameworks)
-- [Trends/Tips](#trends-tips)
-- [Microservices](#microservices)
-- [Design](#design)
-- [Code Quality](#code-quality)
-- [Architecture](#architecture)
-- [Best Practices](#best-practices)
-- [Terminology](#terminology)
-- [FAQ](#faq)
-- [About in28Minutes](#about-in28minutes)
-
 
 # Best Selling Courses
 
