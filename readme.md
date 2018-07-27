@@ -7,7 +7,7 @@ Access our Learning Guides for Free
 https://courses.in28minutes.com/p/in28minutes-course-guide
 
  
-# TOC
+# Table Of Contents
 - [Best Selling Courses](#best-selling-courses)
 - [Learn Frameworks in 10 Steps - Spring, Spring Boot, Maven & More..](#introduction-to-frameworks)
 - [Understand Industry Trends and Tips](#trends-tips)
