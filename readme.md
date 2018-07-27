@@ -9,14 +9,13 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
  
 # TOC
 - [Best Selling Courses](#best-selling-courses)
-- [Course Platforms](#course-platforms)
-- [Introduction to Frameworks](#introduction-to-frameworks)
-- [Trends/Tips](#trends-tips)
+- [Learn Frameworks in 10 Steps](#introduction-to-frameworks)
+- [Understand Industry Trends and Tips](#trends-tips)
+- [Learn about Architecture](#architecture)
+- [Best Practices](#best-practices)
 - [Microservices](#microservices)
 - [Design](#design)
 - [Code Quality](#code-quality)
-- [Architecture](#architecture)
-- [Best Practices](#best-practices)
 - [Terminology](#terminology)
 - [FAQ](#faq)
 - [About in28Minutes](#about-in28minutes)
