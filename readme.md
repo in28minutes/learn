@@ -35,7 +35,29 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 
 > 200,000 Learners doing 19 Awesome Courses
 
-## Java & Spring Boot - REST & Microservices
+## Java and Spring Interview Guides
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://www.udemy.com/spring-interview-questions-and-answers/?couponCode=LEARN-2019)
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://www.udemy.com/java-interview-questions-and-answers/?couponCode=LEARN-2019)
+
+
+## Learn Java, Python Programming and Automation Testing
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://www.udemy.com/learn-python-programming-for-java-programmers?couponCode=LEARN-2019)
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Learn-Automation-Testing-with-Java-and-Selenium-Webdriver.png "Learn Automation Testing with Java and Selenium Webdriver
+")](https://www.udemy.com/automation-testing-with-selenium-and-java-for-beginners/?couponCode=LEARN-2019)
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Learn-Programming-with-Python.png "Learn Programming with Python in 100 Steps")](https://www.udemy.com/python-tutorial-for-beginners/?couponCode=LEARN-2019)
+
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
+")](https://www.udemy.com/java-programming-tutorial-for-beginners/?couponCode=LEARN-2019)
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](http://udemy.com/jshell-tutorial-for-beginners-with-java-9/?couponCode=LEARN-2019)
+
+## Spring, Spring Boot and Spring Cloud - REST & Microservices
 
 [![Image](https://www.in28minutes.com/course-promotional-images/Your-First-Steps-From-Programmer-To-Software-Architect.png "Your First Steps from Programmer to Software Architect")](https://www.udemy.com/software-architect-course-first-steps/?couponCode=LEARN-2019)
 
@@ -66,27 +88,6 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 
 [![Image](https://www.in28minutes.com/course-promotional-images/Learn-Java-Unit-Testing-with-JUnit-5-in-20-Steps.png "JUnit 5 Tutorial for Beginners - Learn Java Unit Testing")](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/?couponCode=LEARN-2019)
 
-## Interview Guides
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://www.udemy.com/spring-interview-questions-and-answers/?couponCode=LEARN-2019)
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://www.udemy.com/java-interview-questions-and-answers/?couponCode=LEARN-2019)
-
-
-## Learn Programming and Automation Testing
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://www.udemy.com/learn-python-programming-for-java-programmers?couponCode=LEARN-2019)
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Learn-Automation-Testing-with-Java-and-Selenium-Webdriver.png "Learn Automation Testing with Java and Selenium Webdriver
-")](https://www.udemy.com/automation-testing-with-selenium-and-java-for-beginners/?couponCode=LEARN-2019)
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Learn-Programming-with-Python.png "Learn Programming with Python in 100 Steps")](https://www.udemy.com/python-tutorial-for-beginners/?couponCode=LEARN-2019)
-
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://www.udemy.com/java-programming-tutorial-for-beginners/?couponCode=LEARN-2019)
-
-[![Image](https://www.in28minutes.com/course-promotional-images/Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](http://udemy.com/jshell-tutorial-for-beginners-with-java-9/?couponCode=LEARN-2019)
 
 
 # Course Platforms
