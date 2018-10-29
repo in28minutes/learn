@@ -1,11 +1,4 @@
 # in28Minutes Learning Guides
-
-> Presentations and Notes on Full Stack Development, Industry Trends, Interview Guides and Best Practices on Design and Architecture. Learn about Design Patterns, Security and more..
-
-Access our Learning Guides for Free
-
-https://courses.in28minutes.com/p/in28minutes-course-guide
-
  
 # Table Of Contents
 
@@ -33,7 +26,7 @@ https://courses.in28minutes.com/p/in28minutes-course-guide
 
 # Best Selling Courses
 
-> 200,000 Learners doing 19 Awesome Courses
+> 240,000 Learners doing 21 Awesome Courses
 
 ## Java and Spring Interview Guides
 
