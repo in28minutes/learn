@@ -1,8 +1,4 @@
 # in28Minutes Learning Guides
- 
-# Table Of Contents
-
-# in28Minutes Learning Guides
 
 Learn about Best Practices - Architecture, Design and Frameworks.
 
