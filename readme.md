@@ -5,14 +5,14 @@
 
 > 250,000 Learners doing 21 Awesome Courses
 
+- [in28Minutes - Which Course To Do Next?](https://www.youtube.com/watch?v=GYc29ocsLrU)
 - [Full Stack, REST and Microservices with Spring, Spring Boot and Spring Cloud](#spring-spring-boot-and-spring-cloud---rest--microservices)
-- [Java and Spring Interview Guides]()
-- [Java, Python Programming and Automation Testing]()
+- [Java and Spring Interview Guides](#java-and-spring-interview-guides)
+- [Java, Python Programming and Automation Testing](#learn-java-python-programming-and-automation-testing)
 
 ## Free Videos and Courses
 - [Best Practices - Architecture, Design and Frameworks](https://courses.in28minutes.com/p/in28minutes-course-guide)
-- [Free Mini Courses - Introductions to Frameworks, Tools and Processes]()
-- [Free Mini Courses - Introductions to Frameworks, Tools and Processes]()
+- [Introductions to Frameworks, Tools and Processes](#free-mini-courses---introductions-to-frameworks)
 
 ## Course Platforms
 - [Udemy](https://www.udemy.com/user/in28minutes/)
@@ -77,6 +77,7 @@
 
 
 # Free Mini Courses - Introductions to Frameworks
+
 - [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
 - [Spring Boot for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps)
 - [Spring MVC in 10 Steps](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
@@ -85,8 +86,6 @@
 - [Maven Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps)
 - [JUnit Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/junit-tutorial-for-beginners)
 - [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
-
-# F1 Style - Introduction to Frameworks, Tools and Processes
 - Introduction to 4 Principles of Simple Design in 5 Minutes
 - Introduction to SOLID Principles in 8 Minutes
 - Introduction to Maven in 7 Minutes
@@ -102,9 +101,6 @@
 - Introduction to Web Services in 5 minutes
 
 # Trends/Tips
-- [in28Minutes Roadmap]
-- [Java, Spring Boot, REST, Microservices Learning Path]
-- [in28Minutes - Which Course To Do Next?]
 - [Top 5 Programming Languages to Learn]
 - [Top 5 Frameworks to Learn]
 - [Top 5 Tools to Learn]
