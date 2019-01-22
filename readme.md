@@ -1,7 +1,12 @@
 # Courses and Videos from in28Minutes
 
+
 ## Best Selling Courses
-- [Full Stack, REST and Microservices with Spring, Spring Boot and Spring Cloud]()
+
+> 250,000 Learners doing 21 Awesome Courses
+
+- [Full Stack, REST and Microservices with Spring, Spring Boot and Spring Cloud](#spring-spring-boot-and-spring-cloud---rest--microservices)
+- [Java and Spring Interview Guides]()
 - [Java, Python Programming and Automation Testing]()
 
 ## Free Videos and Courses
@@ -9,10 +14,13 @@
 - [Free Mini Courses - Introductions to Frameworks, Tools and Processes]()
 - [Free Mini Courses - Introductions to Frameworks, Tools and Processes]()
 
+## Course Platforms
+- [Udemy](https://www.udemy.com/user/in28minutes/)
+- [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
+- [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
+
 
 # Best Selling Courses
-
-> 250,000 Learners doing 21 Awesome Courses
 
 ## Spring, Spring Boot and Spring Cloud - REST & Microservices
 
@@ -67,11 +75,6 @@
 
 [![Image](https://www.in28minutes.com/course-promotional-images/Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](http://udemy.com/jshell-tutorial-for-beginners-with-java-9/?couponCode=LEARN-2019)
 
-
-# Course Platforms
-- [Udemy](https://www.udemy.com/user/in28minutes/)
-- [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
-- [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
 
 # Free Mini Courses - Introductions to Frameworks
 - [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
