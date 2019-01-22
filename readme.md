@@ -164,7 +164,6 @@
 ### Software Design
 - [Should I be an expert at all Design Patterns?](https://www.youtube.com/watch?v=8lEfj1cmBJ4)
 - [Design Patterns for Beginners - New Version](https://www.youtube.com/watch?v=f5Rzr5mVNbY)
-
 - [Introduction to Design Patterns in 25 Minutes](https://www.youtube.com/watch?v=Vp7q_pE7Fzg)
 - [Software Design Principles For Beginners](https://www.youtube.com/watch?v=60EqoRcanpo)
 - [Software Design - 5 Things to Look For in Your Design Reviews](https://www.youtube.com/watch?v=idgO7_Dvdm0)
