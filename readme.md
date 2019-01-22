@@ -15,8 +15,20 @@
 - [Introductions to Frameworks](#quick-introductions-to-frameworks) - Spring, Spring Boot, JPA, Hibernate, Maven, Junit and Mockito
 
 ## 250+ YouTube Videos on Best Practices, Microsevices, Architecture, Design and Code Quality
-- [Design and Architecture]()
-- [Microservice Architecture and Best Practices]()
+- [250 Youtube Videos](#250-youtube-videos)
+    - [5 Minute Introductions - Tools and Terminology](#5-minute-introductions---tools-and-terminology)
+    - [Microservices](#microservices)
+    - [Software Design](#software-design)
+    - [Software Architecture](#software-architecture)
+    - [Code Quality](#code-quality)
+    - [Spring and Other FAQ](#spring-and-other-faq)
+    - [Best Practices and Tips](#best-practices-and-tips)
+    - [Web Service Best Practices](#web-service-best-practices)
+    - [Java](#java)
+    - [Interview Preparation](#interview-preparation)
+    - [Web Application Security](#web-application-security)
+    - [Modern Development Practices](#modern-development-practices)
+    - [The in28minutes way](#the-in28minutes-way)
 
 ## Course Platforms
 - [Udemy](https://www.udemy.com/user/in28minutes/)
@@ -90,7 +102,20 @@
 - [JUnit Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/junit-tutorial-for-beginners)
 - [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
 
-## 250 Youtube Videos
+### [250 Youtube Videos](#250-youtube-videos)
+ - [5 Minute Introductions - Tools and Terminology](#5-minute-introductions---tools-and-terminology)
+ - [Microservices](#microservices)
+ - [Software Design](#software-design)
+ - [Software Architecture](#software-architecture)
+ - [Code Quality](#code-quality)
+ - [Spring and Other FAQ](#spring-and-other-faq)
+ - [Best Practices and Tips](#best-practices-and-tips)
+ - [Web Service Best Practices](#web-service-best-practices)
+ - [Java](#java)
+ - [Interview Preparation](#interview-preparation)
+ - [Web Application Security](#web-application-security)
+ - [Modern Development Practices](#modern-development-practices)
+ - [The in28minutes way](#the-in28minutes-way)
 
 ### 5 Minute Introductions - Tools and Terminology
 - [Introduction to Web Services in 5 minutes](https://www.youtube.com/watch?v=vim2_LSqcvE)
