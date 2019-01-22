@@ -1,7 +1,7 @@
 # Courses and Videos from in28Minutes
 
 
-## Best Selling Courses
+## Join our Best Selling Courses
 
 > 250,000 Learners doing 21 Awesome Courses
 
@@ -10,11 +10,11 @@
 - [Java and Spring Interview Guides](#java-and-spring-interview-guides)
 - [Java, Python Programming and Automation Testing](#learn-java-python-programming-and-automation-testing)
 
-## Free Courses
-- [Best Practices - Architecture, Design and Frameworks](https://courses.in28minutes.com/p/in28minutes-course-guide)
+## Try our Free Courses
 - [Introductions to Frameworks](#quick-introductions-to-frameworks) - Spring, Spring Boot, JPA, Hibernate, Maven, Junit and Mockito
+- [Best Practices - Architecture, Design and Frameworks](https://courses.in28minutes.com/p/in28minutes-course-guide)
 
-## 250+ YouTube Videos
+## Watch 250+ YouTube Videos
 - [250 Youtube Videos](#250-youtube-videos)
     - [5 Minute Introductions - Tools and Terminology](#5-minute-introductions---tools-and-terminology)
     - [Microservices](#microservices)
