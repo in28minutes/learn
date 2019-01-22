@@ -79,7 +79,7 @@
 [![Image](https://www.in28minutes.com/course-promotional-images/Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](http://udemy.com/jshell-tutorial-for-beginners-with-java-9/?couponCode=LEARN-2019)
 
 
-# Quick Introductions to Frameworks
+## Quick Introductions to Frameworks
 
 - [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
 - [Spring Boot for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps)
@@ -90,9 +90,53 @@
 - [JUnit Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/junit-tutorial-for-beginners)
 - [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
 
-## Youtube Videos
+## 250 Youtube Videos
 
-Software Design
+### 5 Minute Introductions - Tools and Terminology
+- [Introduction to Web Services in 5 minutes](https://www.youtube.com/watch?v=vim2_LSqcvE)
+- [Introduction to Spring Initializr in 5 Minutes](https://www.youtube.com/watch?v=pLn0WLCdNx0)
+- [Introduction to Spring Framework in 10 Minutes](https://www.youtube.com/watch?v=6xB-uXqbOqo)
+- [Introduction to Spring Data Rest in 5 Minutes](https://www.youtube.com/watch?v=prtat_cKUVA)
+- [Introduction to Spring Data in 5 Minutes](https://www.youtube.com/watch?v=bg0_9FsOI64)
+- [Introduction to Spring Cloud in 10 Minutes](https://www.youtube.com/watch?v=hgp6dlJJaCI)
+- [Introduction to Spring Boot in 10 Minutes](https://www.youtube.com/watch?v=sKdD3wYP9SM)
+- [Introduction to Spring Batch in 5 Minutes](https://www.youtube.com/watch?v=eohUc-kRUPw)
+- [Introduction to Maven in 7 Minutes](https://www.youtube.com/watch?v=EjymtpicGtg)
+- [Eclipse Quick Start](https://www.youtube.com/watch?v=0s2l_t70x50)
+- [JUnit Quick Start](https://www.youtube.com/watch?v=bdc5WbKKbK4)
+
+### Microservices
+- [Introduction To Microservice Architectures for Beginners](https://www.youtube.com/watch?v=DGid-3LhBG4)
+- [Microservices - First Steps from Monolith to Microservices](https://www.youtube.com/watch?v=d_wVZ6sgVbs)
+- [Microservices - Differences between Microservices and SOA](https://www.youtube.com/watch?v=Ng79aeXukDE)
+- [Microservices - Challenges with Microservices](https://www.youtube.com/watch?v=KGYpmVlIkIw)
+- [Microservices - Advantages of Microservices](https://www.youtube.com/watch?v=nfLll9Ep9DI)
+- [Introduction To Microservices](https://www.youtube.com/watch?v=LLA2ozKh4vA)
+- [Introduction To Microservices - 2 Important Things](https://www.youtube.com/watch?v=8VUbMuAezrc)
+- [Microservices - What is a Microservice?](https://www.youtube.com/watch?v=SeOpfBUAA1o)
+- [Microservices - Introduction to Spring Cloud](https://www.youtube.com/watch?v=Lr96QgqylIU)
+- [Microservices - 12 Factors App - Best Practices in Cloud Native Applications](https://www.youtube.com/watch?v=wjqBxJX35fU)
+- [Microservices -  Best Practices](https://www.youtube.com/watch?v=O91rjFs3S6I)
+- [Introduction To Microservice Architectures for Beginners](https://www.youtube.com/watch?v=DGid-3LhBG4)
+- [Microservices -  Best Practices](https://www.youtube.com/watch?v=O91rjFs3S6I)
+- [Microservices Architecture - Why should you build an Archetype?](https://www.youtube.com/watch?v=KPAe72TqLIw)
+- [Microservices Architecture - Why should we build Redundancy?](https://www.youtube.com/watch?v=uO6LWYAyCMc)
+- [Microservices Architecture - Why do we use Queues and Asynchronous Messaging?](https://www.youtube.com/watch?v=cyXToKjXXQY)
+- [Microservices Architecture - What is Service Discovery with Eureka?](https://www.youtube.com/watch?v=T36Usw_QbP0)
+- [Microservices Architecture - What is Monitoring?](https://www.youtube.com/watch?v=ZrEXW4y4WEA)
+- [Microservices Architecture - What is Fault Tolerance?](https://www.youtube.com/watch?v=7qlQlvnQsuU)
+- [Microservices Architecture - What is Eventual Consistency?](https://www.youtube.com/watch?v=-7JK2dyACNk)
+- [Microservices Architecture - What is Dynamic Scaling?](https://www.youtube.com/watch?v=rxTNUw0wp-U)
+- [Microservices Architecture - What is Cloud?](https://www.youtube.com/watch?v=MvRvKJuRs8c)
+- [Microservices Architecture - What is Centralized Logging?](https://www.youtube.com/watch?v=Va-KMSKO190)
+- [Microservices Architecture - What is Centralized Configuration?](https://www.youtube.com/watch?v=IsAzbA-IM98)
+- [Microservices Architecture - What is API Gateway?](https://www.youtube.com/watch?v=rg7Xkdur-vc)
+- [Microservices Architecture - What are event driven architectures?](https://www.youtube.com/watch?v=uJ4JFMMbSO8)
+- [Microservices Architecture - Importance of Automation Testing](https://www.youtube.com/watch?v=0A8KocCZ_n8)
+- [Microservices and Cloud Native Applications](https://www.youtube.com/watch?v=u_MG_fY1JuA)
+
+
+### Software Design
 - [Should I be an expert at all Design Patterns?](https://www.youtube.com/watch?v=8lEfj1cmBJ4)
 - [Design Patterns for Beginners - New Version](https://www.youtube.com/watch?v=f5Rzr5mVNbY)
 
@@ -124,7 +168,7 @@ Software Design
 - [Software Design - REST API - What is Code First?](https://www.youtube.com/watch?v=yDAujtMk2oQ)
 - [Software Design - Introduction to SOLID Principles in 8 Minutes](https://www.youtube.com/watch?v=yxf2spbpTSw)
 
-Software Architecture
+### Software Architecture
 - [Introduction to Software Architecture In 3 Minutes](https://www.youtube.com/watch?v=RxNNPU7pz_s)
 - [Introduction to Object Oriented Programming in 15 Minutes](https://www.youtube.com/watch?v=5dObhVYrgsA)
 - [Software Architecture - What is Security?](https://www.youtube.com/watch?v=4cQE9DU_A9U)
@@ -165,38 +209,7 @@ Software Architecture
 - [Software Architecture - Why do we need Asynchronous Communication?](https://www.youtube.com/watch?v=wCugdNicf-0)
 - [Microservices Architectures - Non Functional Requirements - Avaliability](https://www.youtube.com/watch?v=R3j0Z1c-0qY)
 
-
-Microservices
-- [Introduction To Microservice Architectures for Beginners](https://www.youtube.com/watch?v=DGid-3LhBG4)
-- [Introduction To Microservices](https://www.youtube.com/watch?v=LLA2ozKh4vA)
-- [Introduction To Microservices - 2 Important Things](https://www.youtube.com/watch?v=8VUbMuAezrc)
-- [Microservices - What is a Microservice?](https://www.youtube.com/watch?v=SeOpfBUAA1o)
-- [Microservices - Introduction to Spring Cloud](https://www.youtube.com/watch?v=Lr96QgqylIU)
-- [Microservices - First Steps from Monolith to Microservices](https://www.youtube.com/watch?v=d_wVZ6sgVbs)
-- [Microservices - Differences between Microservices and SOA](https://www.youtube.com/watch?v=Ng79aeXukDE)
-- [Microservices - Challenges with Microservices](https://www.youtube.com/watch?v=KGYpmVlIkIw)
-- [Microservices - Advantages of Microservices](https://www.youtube.com/watch?v=nfLll9Ep9DI)
-- [Microservices - 12 Factors App - Best Practices in Cloud Native Applications](https://www.youtube.com/watch?v=wjqBxJX35fU)
-- [Microservices -  Best Practices](https://www.youtube.com/watch?v=O91rjFs3S6I)
-- [Introduction To Microservice Architectures for Beginners](https://www.youtube.com/watch?v=DGid-3LhBG4)
-- [Microservices -  Best Practices](https://www.youtube.com/watch?v=O91rjFs3S6I)
-- [Microservices Architecture - Why should you build an Archetype?](https://www.youtube.com/watch?v=KPAe72TqLIw)
-- [Microservices Architecture - Why should we build Redundancy?](https://www.youtube.com/watch?v=uO6LWYAyCMc)
-- [Microservices Architecture - Why do we use Queues and Asynchronous Messaging?](https://www.youtube.com/watch?v=cyXToKjXXQY)
-- [Microservices Architecture - What is Service Discovery with Eureka?](https://www.youtube.com/watch?v=T36Usw_QbP0)
-- [Microservices Architecture - What is Monitoring?](https://www.youtube.com/watch?v=ZrEXW4y4WEA)
-- [Microservices Architecture - What is Fault Tolerance?](https://www.youtube.com/watch?v=7qlQlvnQsuU)
-- [Microservices Architecture - What is Eventual Consistency?](https://www.youtube.com/watch?v=-7JK2dyACNk)
-- [Microservices Architecture - What is Dynamic Scaling?](https://www.youtube.com/watch?v=rxTNUw0wp-U)
-- [Microservices Architecture - What is Cloud?](https://www.youtube.com/watch?v=MvRvKJuRs8c)
-- [Microservices Architecture - What is Centralized Logging?](https://www.youtube.com/watch?v=Va-KMSKO190)
-- [Microservices Architecture - What is Centralized Configuration?](https://www.youtube.com/watch?v=IsAzbA-IM98)
-- [Microservices Architecture - What is API Gateway?](https://www.youtube.com/watch?v=rg7Xkdur-vc)
-- [Microservices Architecture - What are event driven architectures?](https://www.youtube.com/watch?v=uJ4JFMMbSO8)
-- [Microservices Architecture - Importance of Automation Testing](https://www.youtube.com/watch?v=0A8KocCZ_n8)
-- [Microservices and Cloud Native Applications](https://www.youtube.com/watch?v=u_MG_fY1JuA)
-
-Code Quality
+### Code Quality
 - [Introduction to Coding Standards](https://www.youtube.com/watch?v=XRKDpQ3b27M)
 - [Introduction to Code Quality](https://www.youtube.com/watch?v=M4Ip6joERv4)
 - [Code Review Best Practices](https://www.youtube.com/watch?v=hVJGu0xdXII)
@@ -222,37 +235,7 @@ Code Quality
 - [Code Quality - An Overview](https://www.youtube.com/watch?v=aGQda_tlfdw)
 - [Code Quality - 5 Things to think about while Programming](https://www.youtube.com/watch?v=svJ_htqB12E)
 
-5 Minute Introductions - Tools and Terminology
-- [Introduction to Web Services in 5 minutes](https://www.youtube.com/watch?v=vim2_LSqcvE)
-- [Introduction to Spring Initializr in 5 Minutes](https://www.youtube.com/watch?v=pLn0WLCdNx0)
-- [Introduction to Spring Framework in 10 Minutes](https://www.youtube.com/watch?v=6xB-uXqbOqo)
-- [Introduction to Spring Data Rest in 5 Minutes](https://www.youtube.com/watch?v=prtat_cKUVA)
-- [Introduction to Spring Data in 5 Minutes](https://www.youtube.com/watch?v=bg0_9FsOI64)
-- [Introduction to Spring Cloud in 10 Minutes](https://www.youtube.com/watch?v=hgp6dlJJaCI)
-- [Introduction to Spring Boot in 10 Minutes](https://www.youtube.com/watch?v=sKdD3wYP9SM)
-- [Introduction to Spring Batch in 5 Minutes](https://www.youtube.com/watch?v=eohUc-kRUPw)
-- [Introduction to Maven in 7 Minutes](https://www.youtube.com/watch?v=EjymtpicGtg)
-- [Eclipse Quick Start](https://www.youtube.com/watch?v=0s2l_t70x50)
-- [JUnit Quick Start](https://www.youtube.com/watch?v=bdc5WbKKbK4)
-
-The in28minutes way
-- [The in28Minutes Way - 0 - Introduction](https://www.youtube.com/watch?v=_C7lR-lmX0E)
-- [The in28Minutes Way - 1 - Continuous Learning is the Key](https://www.youtube.com/watch?v=EFnmmtVSNf4)
-- [The in28Minutes Way - 2 - Hands On Courses](https://www.youtube.com/watch?v=HDFKOyiYoWk)
-- [The in28Minutes Way - 3 - Focus on Applications](https://www.youtube.com/watch?v=0TrNyHG3STY)
-- [The in28Minutes Way - 4 - Learn Things Step By Step](https://www.youtube.com/watch?v=brcV0cDpZG4)
-- [The in28Minutes Way - 5 - Efficient and Effective Courses](https://www.youtube.com/watch?v=rjjH1s0altg)
-- [The in28Minutes Way - 6 - Delivering Real Project Experiences](https://www.youtube.com/watch?v=UK7kLPrvTtE)
-- [The in28Minutes Way - 7 - Help You Learn Troubleshooting and Debugging Skills](https://www.youtube.com/watch?v=rkNDvujRYMY)
-- [The in28Minutes Way - 8 - Modularized Courses](https://www.youtube.com/watch?v=C2jy40ADkj0)
-- [The in28Minutes Way - 9 - We Focus on Unit Testing](https://www.youtube.com/watch?v=G3TmwtJOPKU)
-- [The in28Minutes Way - 10 - Every Piece of Code is on Github Step by Step](https://www.youtube.com/watch?v=6DYSkZ8F0ac)
-- [The in28Minutes Way - 11 - We help you learn Design and Architecture](https://www.youtube.com/watch?v=PbAsCkMhwMc)
-- [The in28Minutes Way - 12 - We follow Modern Development Practices](https://www.youtube.com/watch?v=KfYBULYkvUQ)
-- [The in28Minutes Way - 13 - We create hands on interview guides](https://www.youtube.com/watch?v=6jbsHMYUjtg)
-- [The in28Minutes Way - 14 - We bring technology trends to you](https://www.youtube.com/watch?v=FaXz1i9hs0Y)
-
-Spring and Other FAQ
+### Spring and Other FAQ
 - [Spring Tip : Why Is Spring Popular?](https://www.youtube.com/watch?v=T8rJ_jU9W8k)
 - [Spring Framework - What is Inversion of Control (IOC)?](https://www.youtube.com/watch?v=oLxsTnH_peI)
 - [Spring Framework - What is Dependency Injection?](https://www.youtube.com/watch?v=4sD_3BzxJOo)
@@ -280,7 +263,7 @@ Spring and Other FAQ
 - [Rest Web Services With Spring Boot](https://www.youtube.com/watch?v=YEEUn5JZ9t0)
 - [Spring Boot Tutorial For Beginners](https://www.youtube.com/watch?v=PSP1-2cN7vM)
 
-Best Practices and Tips
+### Best Practices and Tips
 - [REST API Web Service Best Practices](https://www.youtube.com/watch?v=NzgFdEGI8sI)
 - [JPA And Hibernate Tutorial For Beginners](https://www.youtube.com/watch?v=MaI0_XdpdP8)
 - [Top 6 Java Unit Testing Frameworks](https://www.youtube.com/watch?v=VG7ohV4weYw)
@@ -292,7 +275,7 @@ Best Practices and Tips
 - [JSP Servlets Course - Debugging Problems in First Step](https://www.youtube.com/watch?v=fRBBCMZkTHY)
 - [in28Minutes Roadmap - Java, Spring Boot, REST, Microservices Learning Path](https://www.youtube.com/watch?v=jf6doctfxWQ)
 
-Web Service Best Practices
+### Web Service Best Practices
 - [Restful Web Service Tip 1 -  Consumer First](https://www.youtube.com/watch?v=dEL6762fj8M)
 - [Restful Web Service Tip 3 -  What is Code First Approach?](https://www.youtube.com/watch?v=6rYbmInAeDM)
 - [Restful Web Service Tip 2 -  Use Contract First Approach](https://www.youtube.com/watch?v=puV7GPAa-jQ)
@@ -312,7 +295,7 @@ Web Service Best Practices
 - [Restful Web Service Tip 8 -  Governance Of Apis](https://www.youtube.com/watch?v=tNTIYbGhofQ)
 
 
-Java
+### Java
 - [Java Advanced Object Oriented Programming Tutorial](https://www.youtube.com/watch?v=0flBHkyET_E)
 - [Java Object Oriented Programming For Beginners - 02](https://www.youtube.com/watch?v=i6EztA-F8UI)
 - [Java Object Oriented Programming For Beginners - 01](https://www.youtube.com/watch?v=NOD802rMMCw)
@@ -322,7 +305,7 @@ Java
 - [Java Functional Programming Tutorial - 01](https://www.youtube.com/watch?v=aFCNPHfvqEU)
 - [Java Functional Programming Tutorial - 02](https://www.youtube.com/watch?v=5Xw1_IREXQs)
 
-Interviews
+### Interview Preparation
 - [Servlets Interview Questions and Answers](https://www.youtube.com/watch?v=ov2zrhUxDxQ)
 - [JSP Interview Questions and Answers](https://www.youtube.com/watch?v=ouml01jXi8M)
 - [JDBC Interview Questions and Answers](https://www.youtube.com/watch?v=uYc6RKwLb0o)
@@ -347,18 +330,10 @@ Interviews
 - [Builder Design Pattern](https://www.youtube.com/watch?v=UEPFYWfQe5Y)
 - [Java interview questions for Freshers  - Part 2](https://www.youtube.com/watch?v=xyXuo0y-xoU)
 - [Introduction To Transaction Management](https://www.youtube.com/watch?v=HcjHJLEbtRs)
-- [JavaScript Tutorial For Beginners](https://www.youtube.com/watch?v=6TZdD-FR6CY)
-- [Programming for Beginners](https://www.youtube.com/watch?v=B7Qx_yJzxqw)
 - [Java Interview Questions and Answers : A guide for experienced](https://www.youtube.com/watch?v=0xcgzUdTO5M)
-- [How to Debug JavaScript?](https://www.youtube.com/watch?v=35kfYCFzKng)
-- [Installing nodejs : A 4 minute guide](https://www.youtube.com/watch?v=5B0Ns0XOQyg)
-- [Bower Tutorial](https://www.youtube.com/watch?v=jApbDc8JcW0)
-- [Installing Bower](https://www.youtube.com/watch?v=Lq_rZznOAbM)
-- [npm (node package manager) tutorial](https://www.youtube.com/watch?v=VUGBEoeRek4)
-- [Installing npm (node package manager)](https://www.youtube.com/watch?v=wVJWDi1bMII)
 - [Java Interview Questions and Answers : A Freshers Guide - Part 1](https://www.youtube.com/watch?v=njZ48YVkei0)
 
-Web Application Security
+### Web Application Security
 - [Web Application Security and OWASP - Top 10 Security Flaws](https://www.youtube.com/watch?v=j5PuYFCS0Iw)
 - [Web Application Security - What is SQL Injection?](https://www.youtube.com/watch?v=3K7bE10-eiY)
 - [Web Application Security - What is Cross Site Scripting (XSS)?](https://www.youtube.com/watch?v=oWTV-OwTeiM)
@@ -368,7 +343,25 @@ Web Application Security
 - [Web Application Security - What is Cross Site Scripting (XSS)?](https://www.youtube.com/watch?v=oWTV-OwTeiM)
 - [Web Application Security - What is Cross Site Request Forgery (CSRF)?](https://www.youtube.com/watch?v=TUaijWRw4YI)
 
-Modern Development Practices
+### Modern Development Practices
 - [Modern Development Practices - Unit Testing - What is Mocking?](https://www.youtube.com/watch?v=xJreuzP2C0M)
 - [Modern Development Practices - Continuous Integration - 5 Tips to get better at CI](https://www.youtube.com/watch?v=i8WNumrDMcA)
 - [Modern Development Practices - Automation Testing - 5 Types of Automation Tests](https://www.youtube.com/watch?v=kwqH1C76siE)
+
+
+### The in28minutes way
+- [The in28Minutes Way - 0 - Introduction](https://www.youtube.com/watch?v=_C7lR-lmX0E)
+- [The in28Minutes Way - 1 - Continuous Learning is the Key](https://www.youtube.com/watch?v=EFnmmtVSNf4)
+- [The in28Minutes Way - 2 - Hands On Courses](https://www.youtube.com/watch?v=HDFKOyiYoWk)
+- [The in28Minutes Way - 3 - Focus on Applications](https://www.youtube.com/watch?v=0TrNyHG3STY)
+- [The in28Minutes Way - 4 - Learn Things Step By Step](https://www.youtube.com/watch?v=brcV0cDpZG4)
+- [The in28Minutes Way - 5 - Efficient and Effective Courses](https://www.youtube.com/watch?v=rjjH1s0altg)
+- [The in28Minutes Way - 6 - Delivering Real Project Experiences](https://www.youtube.com/watch?v=UK7kLPrvTtE)
+- [The in28Minutes Way - 7 - Help You Learn Troubleshooting and Debugging Skills](https://www.youtube.com/watch?v=rkNDvujRYMY)
+- [The in28Minutes Way - 8 - Modularized Courses](https://www.youtube.com/watch?v=C2jy40ADkj0)
+- [The in28Minutes Way - 9 - We Focus on Unit Testing](https://www.youtube.com/watch?v=G3TmwtJOPKU)
+- [The in28Minutes Way - 10 - Every Piece of Code is on Github Step by Step](https://www.youtube.com/watch?v=6DYSkZ8F0ac)
+- [The in28Minutes Way - 11 - We help you learn Design and Architecture](https://www.youtube.com/watch?v=PbAsCkMhwMc)
+- [The in28Minutes Way - 12 - We follow Modern Development Practices](https://www.youtube.com/watch?v=KfYBULYkvUQ)
+- [The in28Minutes Way - 13 - We create hands on interview guides](https://www.youtube.com/watch?v=6jbsHMYUjtg)
+- [The in28Minutes Way - 14 - We bring technology trends to you](https://www.youtube.com/watch?v=FaXz1i9hs0Y)
