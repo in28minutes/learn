@@ -14,7 +14,7 @@
 - [Best Practices - Architecture, Design and Frameworks](https://courses.in28minutes.com/p/in28minutes-course-guide)
 - [Introductions to Frameworks](#quick-introductions-to-frameworks) - Spring, Spring Boot, JPA, Hibernate, Maven, Junit and Mockito
 
-## 250+ YouTube Videos on Best Practices, Microsevices, Architecture, Design and Code Quality
+## 250+ YouTube Videos
 - [250 Youtube Videos](#250-youtube-videos)
     - [5 Minute Introductions - Tools and Terminology](#5-minute-introductions---tools-and-terminology)
     - [Microservices](#microservices)
