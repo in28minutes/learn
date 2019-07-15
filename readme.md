@@ -38,6 +38,10 @@
 
 # Best Selling Courses
 
+## AWS and Cloud Courses
+
+[![Image](https://www.in28minutes.com/course-promotional-images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://www.udemy.com/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=LEARN-2019){:target="_blank"}
+
 ## Full Stack Courses
 
 [![Image](https://www.in28minutes.com/course-promotional-images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://www.udemy.com/full-stack-application-with-spring-boot-and-react/?couponCode=LEARN-2019)
