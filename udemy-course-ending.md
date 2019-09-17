@@ -82,7 +82,7 @@ Each of these courses come with
 
 
 
-~~~ Here are a Few Reviews on The in28Minutes Way ~~~
+***** Here are a Few Reviews on The in28Minutes Way *****
 
 ★★★★★ Excellent, fabulous. The way he has prepared the material and the way he teaches is really awesome. What an effort .. Thanks a million
 
