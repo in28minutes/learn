@@ -8,7 +8,7 @@ Here are coupons for our best-selling courses on **Cloud**, **Full Stack**, **Mi
 
 Please click the images/courses below to watch the course video previews (**30-day 100% money back guarantee on every course**):
 
-**25+ Courses** on **Cloud**, **Full Stack**, **Microservices** and Spring Boot - [https://github.com/in28minutes/learn/edit/master/udemy-course-ending.md#aws-and-cloud-courses](https://github.com/in28minutes/learn/edit/master/udemy-course-ending.md#aws-and-cloud-courses)
+**25+ Courses** on **Cloud**, **Full Stack**, **Microservices** and Spring Boot - [https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
 ## AWS and Cloud Courses
 
