@@ -34,6 +34,7 @@
 - [Udemy](https://www.udemy.com/user/in28minutes/)
 - [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
 - [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
+- [Udacity](https://www.udacity.com/)
 
 
 # Best Selling Courses
