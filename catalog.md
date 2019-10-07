@@ -24,9 +24,7 @@ We use a Problem Solution based Step by Step Hands-on Learning Approach.
 
 # Course Catalogue
 
-## AWS and Cloud Courses
-
-### Docker Crash Course for Java and Spring Boot Developers
+## Docker Crash Course for Java and Spring Boot Developers
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=LEARN-2019)
 
@@ -54,6 +52,8 @@ You will be using containerizing a variety of projects created with React (Front
 
 <div style="page-break-after: always;"></div>
 
+## Pivotal Cloud Foundry (PCF) Crash Course - Spring Boot Apps
+
 [![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://www.udemy.com/course/learn-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps/?couponCode=LEARN-2019)
 How about learning PCF (Pivotal Cloud Foundry) deploying Spring Applications to Cloud using Pivotal Cloud Foundry?
 
@@ -78,6 +78,8 @@ This course would be a perfect first step as an introduction to PCF and the Clou
 You will be using deploying a variety of projects to Pivotal Cloud Foundry (PCF) . These projects are created with React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 <div style="page-break-after: always;"></div>
+
+## Deploy Java Spring Boot Apps to AWS with Elastic Beanstalk
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://www.udemy.com/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=LEARN-2019)
 
@@ -106,6 +108,8 @@ You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS Code
 You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 <div style="page-break-after: always;"></div>
+
+## Deploy Spring Boot Microservices to AWS - ECS & AWS Fargate
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/?couponCode=LEARN-2019)
 
@@ -143,7 +147,7 @@ You will be using a number of AWS Services - ECS - Elastic Container Services, A
 
 You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with Spring Boot (REST API Framework), Spring (Dependency Management), Maven (dependencies management), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
-## Full Stack Courses
+## Go Full Stack with Spring Boot and React
 
 <div style="page-break-after: always;"></div>
 
@@ -161,6 +165,8 @@ React is a view framework providing great deal of flexibility in integrating wit
 
 <div style="page-break-after: always;"></div>
 
+## Go Full Stack with Spring Boot and Angular
+
 [![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png "Go Full Stack with Spring Boot and Angular")](https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=LEARN-2019)
 
 Developing your first full stack web application with Angular and Spring Boot is fun.
@@ -174,7 +180,7 @@ We will help you set up each one of these.
 Angular is a complete front end framework with a wide range of features. Spring Boot is an awesome framework to build RESTful API and Microservices. Lets combine these frameworks and create an awesome full stack web application.
 <div style="page-break-after: always;"></div>
 
-## Spring, Spring Boot and Spring Cloud - REST & Microservices
+## Your First Steps from Programmer to Software Architect
 
 [![Image](https://www.springboottutorial.com/images/Course-Your-First-Steps-From-Programmer-To-Software-Architect.png "Your First Steps from Programmer to Software Architect")](https://www.udemy.com/software-architect-course-first-steps/?couponCode=LEARN-2019)
 
@@ -188,6 +194,8 @@ In this course, we will NOT discuss about specific architecture patterns. The ob
 
 
 <div style="page-break-after: always;"></div>
+
+## Your First Steps from Programmer to Software Architect
 
 [![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/?couponCode=LEARN-2019)
 
@@ -206,6 +214,8 @@ In the second part of the course, you will learn the basics of Microservices. Yo
 In this part of the course, you will learn to establish communication between microservices, enable load balancing, scaling up and down of microservices. You will also learn to centralize configuration of microservices with Spring Cloud Config Server. You will implement Eureka Naming Server and Distributed tracing with Spring Cloud Sleuth and Zipkin. You will create fault toleranct microservices with Zipkin.
 
 <div style="page-break-after: always;"></div>
+
+## Master Hibernate and JPA with Spring Boot in 100 Steps
 
 [![Image](https://www.springboottutorial.com/images/Course-Master-Hibernate-and-JPA-with-Spring-Boot-in-100-Steps.png "Master Hibernate and JPA with Spring Boot in 100 Steps")](https://www.udemy.com/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=LEARN-2019)
 
@@ -230,6 +240,8 @@ During this course
 - You will understand the basics of Spring Data JPA and Spring Data REST
 
 <div style="page-break-after: always;"></div>
+
+## Spring Master Class - Beginner to Expert
 
 [![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://www.udemy.com/spring-tutorial-for-beginners/?couponCode=LEARN-2019)
 
@@ -259,6 +271,8 @@ You will learn about
 
 <div style="page-break-after: always;"></div>
 
+## Master Java Web Services and REST API with Spring Boot
+
 [![Image](https://www.springboottutorial.com/images/Course-Master-Java-Web-Services-and-REST-API-with-Spring-Boot.png "Master Java Web Services and REST API with Spring Boot")](https://www.udemy.com/spring-web-services-tutorial/?couponCode=LEARN-2019)
 
 Developing SOAP and RESTful web services is fun. The combination of Spring Boot, Spring Web MVC, Spring Web Services and JPA makes it even more fun.
@@ -278,6 +292,8 @@ In the second part of the course, you will learn the basics of implementing SOAP
 In this part of the course, you will be using Spring (Dependency Management), Spring Web Services , Spring Boot, Spring Security (Authentication and Authorization), Maven (dependencies management), Eclipse (IDE), Wizdler (SOAP Services Chrome Plugin) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 <div style="page-break-after: always;"></div>
+
+## Learn Spring Boot in 100 Steps - Beginner to Expert
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert.png "Learn Spring Boot in 100 Steps - Beginner to Expert")](https://www.udemy.com/spring-boot-tutorial-for-beginners/?couponCode=LEARN-2019)
 
