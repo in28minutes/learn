@@ -1,8 +1,3 @@
-# Courses and Videos from in28Minutes
-
-
-# Course List
-
 ## AWS and Cloud Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=LEARN-2019)
