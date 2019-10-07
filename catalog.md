@@ -1,3 +1,27 @@
+## About in28Minutes
+
+We started in28Minutes to create awesome learning experiences for Cloud, Java, Spring Boot & Full Stack with Hands-on Courses using Real World Projects.
+
+We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples.
+
+We have 25+ Courses providing amazing learning experiences in Java Programming, Java Frameworks (Spring, Spring Boot, Spring MVC, Struts, Hibernate), Cloud (AWS, PCF, GCP and Azure) and Full Stack ( React, Angular ). We also have courses teaching the amazing world of Python Programming and Automation Testing with Selenium Web Driver.
+
+Today we have 300,000 Learners pursuing our courses on various platforms including Udemy, Safari Online and Packt.
+
+### Our Beliefs
+
+Best Courses are interactive and fun.
+
+Foundations for building high quality applications are best laid down while learning.
+
+### Our Approach
+
+We use 80-20 Rule. We discuss 20% things used 80% of time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own.
+
+We use a Problem Solution based Step by Step Hands-on Learning Approach.
+
+<div style="page-break-after: always;"></div>
+
 ## AWS and Cloud Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=LEARN-2019)
