@@ -2,11 +2,11 @@ I hope you enjoyed the course! I would recommend to connect and **share your 
 
 https://www.linkedin.com/in/rangakaranam/
 
-# Coupons for 25 Best Selling Courses with 300,000 Learners
+# 25 Best Selling Courses with 300,000 Learners
 
-Here are coupons for our best-selling courses on **Cloud**, **Full Stack**, **Microservices** and Spring Boot. 
+Here are  our best-selling courses on **Cloud**, **Full Stack**, **Microservices** and Spring Boot. 
 
-Please click the images/courses below to watch the course video previews (**30-day 100% money back guarantee on every course**):
+Please click the images/courses below to watch the course video previews (**30-day money back option on every course**):
 
 **25+ Courses** on **Cloud**, **Full Stack**, **Microservices** and Spring Boot - [https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
@@ -78,8 +78,6 @@ Each of these courses come with
 
 ✔ Free Udemy Certificate of Completion on Completion of Course
 
-✔ 30 Day "No Questions Asked" Money Back Guarantee!
-
 
 
 ***** Here are a Few Reviews on The in28Minutes Way *****
@@ -95,7 +93,5 @@ Each of these courses come with
 ★★★★★ I also appreciate the mind and hands approach of teaching something and then having the student apply it. It makes everything a lot clearer for the student and uncovers issues that we will face in our project early.
 
 ★★★★★ Amazing course. Explained super difficult concepts (that I have spent hours on the internet finding a good explanation) in under 5 minutes.
-
-**Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!**
 
 ** Start Learning Now. Hit the Enroll Button! **
