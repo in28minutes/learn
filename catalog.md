@@ -28,6 +28,7 @@ We use a Problem Solution based Step by Step Hands-on Learning Approach.
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=OCTOBER-2019)
 
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/deploy-spring-boot-to-azure/?couponCode=OCTOBER-2019)
 Learn Docker containerizing Java Spring Boot Apps - REST API, Full Stack and Microservices with Docker Compose
 
 Architectures are moving towards Microservices and Cloud. Docker makes it easy to containerize your applications and make them cloud-ready.
@@ -362,6 +363,7 @@ You will learn about Spring Boot step by step - in more than 100 steps. This cou
 
 [![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://www.udemy.com/course/learn-python-programming-for-java-programmers?couponCode=OCTOBER-2019)
 
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Azure Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/functional-programming-with-java/?couponCode=OCTOBER-2019)
 <div style="page-break-after: always;"></div>
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-Automation-Testing-with-Java-and-Selenium-Webdriver.png "Learn Automation Testing with Java and Selenium Webdriver
