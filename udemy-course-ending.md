@@ -6,9 +6,44 @@ https://www.linkedin.com/in/rangakaranam/
 
 in28Minutes is providing amazing learning experiences to 300,000 Learners with courses on AWS, PCF, Docker, Kubernetes, GCP, Azure, React and AngularJS with Spring Boot!
 
-Please click the images/courses below to watch the course video previews (**30-day money back option on every course**):
+[![Image](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png "25 Best Selling Courses with 300,000 Learners")](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
-**25+ Courses** on **Cloud**, **Full Stack**, **Microservices** and Spring Boot - [https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
+## What You Can Expect from Every in28Minutes Course
+
+in28Minutes created 20 Best Selling Courses providing Amazing Learning Experiences to 250,000 Learners across the world.
+
+Each of these courses come with
+
+✔ Amazing Hands-on Step By Step Learning Experiences
+
+✔ Real Project Experiences using the Best Tools and Frameworks
+
+✔ Awesome Troubleshooting Guides with 200+ FAQs Answered
+
+✔ Friendly Support in the Q&A section
+
+✔ Free Udemy Certificate of Completion on Completion of Course
+
+
+## Here are a Few Reviews on The in28Minutes Way *****
+
+★★★★★ Excellent, fabulous. The way he has prepared the material and the way he teaches is really awesome. What an effort .. Thanks a million
+
+★★★★★ A lot of preparation work has taken place from the teacher and this is visible throughout the course.
+
+★★★★★ This guy is fantastic. Really. Wonderful teaching skills, and goes well out of his way to make sure that everything he is doing is fully understood. This is the kind of tutorial that gets me excited to work with a framework that I may otherwise not be.
+
+★★★★★ The best part of it is the hands-on approach which the author maintained throughout the course as he had promised at the beginning of the lecture. He explains the concepts really well and also makes sure that there is not a single line of code you type without understanding what it really does.
+
+★★★★★ I also appreciate the mind and hands approach of teaching something and then having the student apply it. It makes everything a lot clearer for the student and uncovers issues that we will face in our project early.
+
+★★★★★ Amazing course. Explained super difficult concepts (that I have spent hours on the internet finding a good explanation) in under 5 minutes.
+
+** Start Learning Now. Hit the Enroll Button! **
+
+[![Image](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png "25 Best Selling Courses with 300,000 Learners")](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
+
+
 
 ## AWS and Cloud Courses
 
