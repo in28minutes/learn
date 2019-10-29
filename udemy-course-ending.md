@@ -4,13 +4,19 @@ https://www.linkedin.com/in/rangakaranam/
 
 # 25 Best Selling Courses with 300,000 Learners
 
-Here are  our best-selling courses on **Cloud**, **Full Stack**, **Microservices** and Spring Boot. 
+in28Minutes is providing amazing learning experiences to 300,000 Learners with courses on AWS, PCF, Docker, Kubernetes, GCP, Azure, React and AngularJS with Spring Boot!
 
 Please click the images/courses below to watch the course video previews (**30-day money back option on every course**):
 
 **25+ Courses** on **Cloud**, **Full Stack**, **Microservices** and Spring Boot - [https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
 ## AWS and Cloud Courses
+
+[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=OCTOBER-2019)
+
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/deploy-spring-boot-to-azure/?couponCode=OCTOBER-2019)
+
+[![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://www.udemy.com/course/learn-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps/?couponCode=OCTOBER-2019)
 
 [![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://www.udemy.com/course/learn-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps/?couponCode=OCTOBER-2019)
 
@@ -95,3 +101,5 @@ Each of these courses come with
 ★★★★★ Amazing course. Explained super difficult concepts (that I have spent hours on the internet finding a good explanation) in under 5 minutes.
 
 ** Start Learning Now. Hit the Enroll Button! **
+
+![in28MinutesLearningRoadmap-July2019.png](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)

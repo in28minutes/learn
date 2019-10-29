@@ -24,7 +24,7 @@ We use a Problem Solution based Step by Step Hands-on Learning Approach.
 
 # Course Catalogue
 
-## Docker Crash Course for Java and Spring Boot Developers
+## AWS and Cloud Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=OCTOBER-2019)
 
