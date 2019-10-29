@@ -45,6 +45,7 @@ Each of these courses come with
 
 [![Image](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png "25 Best Selling Courses with 300,000 Learners")](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
+[Check out the complete list of courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
 
 ## AWS and Cloud Courses
@@ -139,5 +140,3 @@ Each of these courses come with
 ** Start Learning Now. Hit the Enroll Button! **
 
 ![in28MinutesLearningRoadmap-July2019.png](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)
-
-[Check out the complete list of courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
