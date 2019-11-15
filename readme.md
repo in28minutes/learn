@@ -2,44 +2,11 @@
 
 ![in28MinutesLearningRoadmap-July2019.png](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)
 
-## Join our Best Selling Courses
-
-> 250,000 Learners doing 21 Awesome Courses
-
-- [in28Minutes - Which Course To Do Next?](https://www.youtube.com/watch?v=GYc29ocsLrU)
-- [Full Stack, REST and Microservices with Spring, Spring Boot and Spring Cloud](#spring-spring-boot-and-spring-cloud---rest--microservices)
-- [Java and Spring Interview Guides](#java-and-spring-interview-guides)
-- [Java, Python Programming and Automation Testing](#learn-java-python-programming-and-automation-testing)
-
-## Try our Free Courses
-- [Introductions to Frameworks](#quick-introductions-to-frameworks) - Spring, Spring Boot, JPA, Hibernate, Maven, Junit and Mockito
-- [Best Practices - Architecture, Design and Frameworks](https://courses.in28minutes.com/p/in28minutes-course-guide)
-
-## Watch 250+ YouTube Videos
-- [250 Youtube Videos](#250-youtube-videos)
-    - [5 Minute Introductions - Tools and Terminology](#5-minute-introductions---tools-and-terminology)
-    - [Microservices](#microservices)
-    - [Software Design](#software-design)
-    - [Software Architecture](#software-architecture)
-    - [Code Quality](#code-quality)
-    - [Spring and Other FAQ](#spring-and-other-faq)
-    - [Best Practices and Tips](#best-practices-and-tips)
-    - [Web Service Best Practices](#web-service-best-practices)
-    - [Java](#java)
-    - [Interview Preparation](#interview-preparation)
-    - [Web Application Security](#web-application-security)
-    - [Modern Development Practices](#modern-development-practices)
-    - [The in28minutes way](#the-in28minutes-way)
-
-## Course Platforms
-- [Udemy](https://github.com/in28minutes/learn#best-selling-courses)
-- [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
-- [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
-
-
 # Best Selling Courses
 
 ## AWS and Cloud Courses
+
+[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/?couponCode=OCTOBER-2019)
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=OCTOBER-2019)
 
@@ -110,6 +77,10 @@
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](http://udemy.com/jshell-tutorial-for-beginners-with-java-9/?couponCode=OCTOBER-2019)
 
+## Course Platforms
+- [Udemy](https://github.com/in28minutes/learn#best-selling-courses)
+- [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
+- [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
 
 ## Quick Introductions to Frameworks
 
