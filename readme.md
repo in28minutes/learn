@@ -98,10 +98,9 @@
 - [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
 - [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
 
-## Quick Introductions to Frameworks
+## Recommended Preview Courses
 
-- [Learn Kubernetes in 10 Steps](https://www.youtube.com/watch?v=rTNR7vDQDD8)
-- [Learn Docker in 5 Steps](https://www.youtube.com/watch?v=Rt5G5Gj7RP0)
+- [Java Servlets and JSP - Build Java EE(JEE) app in 25 Steps](https://courses.in28minutes.com/p/java-servlets-and-jsp-build-java-ee-jee-app-in-25-steps)
 - [Spring Framework for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-framework-for-beginners)
 - [Spring Boot for Beginners in 10 Steps](https://courses.in28minutes.com/p/spring-boot-for-beginners-in-10-steps)
 - [Spring MVC in 10 Steps](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
@@ -112,6 +111,13 @@
 - [Mockito Tutorial for Beginners in 5 Steps](https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps)
 - [Full Stack with Spring Boot and React](https://www.youtube.com/watch?v=SWXuXhZkNQc)
 - [Full Stack with Spring Boot and Angular](https://www.youtube.com/watch?v=8ueiZf988qY)
+- [Learn Docker in 5 Steps](https://www.youtube.com/watch?v=Rt5G5Gj7RP0)
+- [Learn Kubernetes in 10 Steps](https://www.youtube.com/watch?v=rTNR7vDQDD8)
+- [Deploying Spring Boot Apps to AWS using Elastic Beanstalk - First 10 Steps](https://www.youtube.com/watch?v=ueKwBqobijE)
+- [AWS Fargate and ECS - Deploy Spring Microservices](https://www.youtube.com/watch?v=2oXVYxIPs88)
+- [Pivotal Cloud Foundry PCF Tutorial with Spring Boot Microservices](https://www.youtube.com/watch?v=bafEegslWoc)
+- [Azure Web Apps Tutorial with Spring Boot and Java](https://www.youtube.com/watch?v=-tia-ZaprHQ)
+
 
 ## Youtube Playlists - 500+ Videos
 
