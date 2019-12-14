@@ -16,6 +16,16 @@
 
 [![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=NOVEMBER-2019)
 
+# Recommended Learning Paths
+
+> Skills, Learning Path, Videos and Course Recommendations
+
+ - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./learning-paths/01.md)
+ - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](./learning-paths/02.md)
+ - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](./learning-paths/03.md)
+ - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./learning-paths/04.md)
+ - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-paths/05.md)
+
 ## Youtube Playlists - 500+ Videos
 
 [Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
@@ -32,17 +42,6 @@
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=NOVEMBER-2019)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/?couponCode=NOVEMBER-2019)
-
-# Recommended Learning Paths
-
-> Skills, Learning Path, Videos and Course Recommendations
-
- - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./learning-path/01.md)
- - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](./learning-path/02.md)
- - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](./learning-path/03.md)
- - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./learning-path/04.md)
- - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-path/05.md)
-
 
 ## Full Stack Courses
 
