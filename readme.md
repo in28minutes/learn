@@ -33,6 +33,17 @@
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/?couponCode=NOVEMBER-2019)
 
+# Recommended Learning Paths
+
+> Skills, Learning Path, Videos and Course Recommendations
+
+ - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./learning-path/01.md)
+ - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](./learning-path/02.md)
+ - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](./learning-path/03.md)
+ - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./learning-path/04.md)
+ - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-path/05.md)
+
+
 ## Full Stack Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?couponCode=NOVEMBER-2019)
