@@ -1,5 +1,12 @@
 # Learning Paths
 
+
+## Video about choosing Learning Paths
+
+- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://rebrand.ly/in28minutes-LP-Overview-Video)
+
+## Learning Paths
+
 > Skills, Learning Path, Videos and Course Recommendations
 
  - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./01.md)
