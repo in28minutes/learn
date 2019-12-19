@@ -1,4 +1,4 @@
-# Learning Challenges
+# Free 5 Day Learning Challenges
 
 > COMING SOON - Work in Progress
 
@@ -10,8 +10,8 @@
 
 > 5 Day Challenges to help you get started!
 
- - [Learning Challenge 01 -](./01.md)
- - [Learning Challenge 02 -](./02.md)
- - [Learning Challenge 03 -](./03.md)
- - [Learning Challenge 04 -](./04.md)
- - [Learning Challenge 05 -](./05.md)
+ - [Free 5 Day Learning Challenge 01 -](./01.md)
+ - [Free 5 Day Learning Challenge 02 -](./02.md)
+ - [Free 5 Day Learning Challenge 03 -](./03.md)
+ - [Free 5 Day Learning Challenge 04 -](./04.md)
+ - [Free 5 Day Learning Challenge 05 -](./05.md)
