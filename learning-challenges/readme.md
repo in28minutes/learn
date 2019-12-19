@@ -1,16 +1,17 @@
-# Learning Paths
+# Learning Challenges
 
+> COMING SOON - Work in Progress
 
-## Video about choosing Learning Paths
+## Video about choosing Learning Challenges
 
-- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://rebrand.ly/in28minutes-LP-Overview-Video)
+> COMING SOON - Work in Progress
 
-## Learning Paths
+## Learning Challenges
 
-> Skills, Learning Path, Videos and Course Recommendations
+> 5 Day Challenges to help you get started!
 
- - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./01.md)
- - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](./02.md)
- - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](./03.md)
- - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./04.md)
- - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./05.md)
+ - [Learning Challenge 01 -](./01.md)
+ - [Learning Challenge 02 -](./02.md)
+ - [Learning Challenge 03 -](./03.md)
+ - [Learning Challenge 04 -](./04.md)
+ - [Learning Challenge 05 -](./05.md)

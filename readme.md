@@ -104,6 +104,7 @@
 [![Image](https://www.springboottutorial.com/images/Course-Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](https://rebrand.ly/in28minutes-jshell)
 
 ## Course Platforms
+
 - [Udemy](https://github.com/in28minutes/learn#best-selling-courses)
 - [Safari Online](https://www.safaribooksonline.com/search/?query=ranga%20karanam)
 - [Packt](https://search.packtpub.com/?query=ranga%20karanam&refinementList%5Breleased%5D%5B0%5D=Available)
@@ -127,7 +128,6 @@
 - [AWS Fargate and ECS - Deploy Spring Microservices](https://www.youtube.com/watch?v=2oXVYxIPs88)
 - [Pivotal Cloud Foundry PCF Tutorial with Spring Boot Microservices](https://www.youtube.com/watch?v=bafEegslWoc)
 - [Azure Web Apps Tutorial with Spring Boot and Java](https://www.youtube.com/watch?v=-tia-ZaprHQ)
-
 
 ## Youtube Playlists - 500+ Videos
 
