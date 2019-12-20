@@ -1,10 +1,33 @@
 # Free 5 Day Learning Challenges
 
-> COMING SOON - Work in Progress
+You want to learn something. But, if you are like me, you are lazy. You might not have the motivation to learn a little every day. 
 
-## Video about choosing Learning Challenges
+How do you get into the habit of continuous learning?
 
-> COMING SOON - Work in Progress
+These are questions which every beginners asks
+- Where do I start?
+- How can I learn?
+- What are the best resources?
+
+Enter our 5 day Learning Challenges!
+
+The first step to mastering a technology is getting started. These learning challenges will motivate you and help you get started with a specific technology. You might not master it but you will know enough about the technology to make the right choices later!
+
+At in28minutes, we think that continuous learning is the key to your success. 
+
+## What will happen once you enroll?
+
+You will get an email every day for the next 5 days. 
+
+All that you would need to do is to watch the recommended videos, read the recommended articles and do the recommended practical activities.
+
+We have a facebook group where you can post the challenges you face and the group is ready to help you!
+
+## How can I choose the right learning challenge?
+
+You can watch this video to understand the high level architecture and decide where you would want to start!
+- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://rebrand.ly/in28minutes-LP-Overview-Video)
+
 
 ## Learning Challenges
 
