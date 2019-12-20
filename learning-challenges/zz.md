@@ -268,3 +268,33 @@ Here's what you need to do in the next few days!
 - [Java Architecture Overview - Web, API, Full Stack, Cloud, Microservices with Docker & Kubernetes](https://www.youtube.com/watch?v=ysoC8S96pZU&list=PLBBog2r6uMCResrR48HziFtNx4-BDOmU0)
 - [Learning Paths](https://github.com/in28minutes/learn/tree/master/learning-paths)
 - [Join Other Learning Challenges](https://github.com/in28minutes/learn/tree/master/learning-challenges)
+
+
+#### Email Template
+
+```
+<p>Its time for Day </p>
+
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
+  <tbody>
+    <tr>
+      <td align="left">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td> <a href="{{course.url}}" target="_blank">Continue Learning!</a> </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Feel free to get in touch with us if you have any questions!</p>
+
+<p>
+  {{ text.email_receipts.sign_off }}<br>
+  {{ school.name }}
+</p>
+```
