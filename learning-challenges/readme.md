@@ -33,8 +33,8 @@ You can watch this video to understand the high level architecture and decide wh
 
 > 5 Day Challenges to help you get started!
 
- - [Free 5 Day Learning Challenge 01 -](./01.md)
- - [Free 5 Day Learning Challenge 02 -](./02.md)
- - [Free 5 Day Learning Challenge 03 -](./03.md)
- - [Free 5 Day Learning Challenge 04 -](./04.md)
- - [Free 5 Day Learning Challenge 05 -](./05.md)
+ - [Free 5 Day Learning Challenge 01 - Spring and Spring Boot](./01.md)
+ - [Free 5 Day Learning Challenge 02 - Coming Soon](./02.md)
+ - [Free 5 Day Learning Challenge 03 - Coming Soon](./03.md)
+ - [Free 5 Day Learning Challenge 04 - Coming Soon](./04.md)
+ - [Free 5 Day Learning Challenge 05 - Coming Soon](./05.md)
