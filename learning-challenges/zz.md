@@ -221,7 +221,6 @@ Here's what you need to do in the next few days!
 - [Learning Paths](https://github.com/in28minutes/learn/tree/master/learning-paths)
 - [Join Other Learning Challenges](https://github.com/in28minutes/learn/tree/master/learning-challenges)
 
-
 ## Learning Challenge 06 - Start with Full Stack with React, Angular and Spring Boot in 5 days
 
 Here's what you need to do in the next few days!
