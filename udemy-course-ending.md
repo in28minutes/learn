@@ -4,19 +4,19 @@ https://www.linkedin.com/in/rangakaranam/
 
 ## Top 5 Recommended Courses
 
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://rebrand.ly/in28minutes-aws-elastic-beanstalk)
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://rebrand.ly/Udemy-Bonus-AWS-Beanstalk)
 
-[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-Kubernetes)
+[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://rebrand.ly/Udemy-Bonus-Kubernetes)
 
-[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-Docker)
+[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://rebrand.ly/Udemy-Bonus-Docker)
 
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://rebrand.ly/in28minutes-React)
+[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://rebrand.ly/Udemy-Bonus-React)
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://rebrand.ly/in28minutes-Microservices)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://rebrand.ly/Udemy-Bonus-Microservices)
 
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://rebrand.ly/in28minutes-Spring)
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://rebrand.ly/Udemy-Bonus-Spring)
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://rebrand.ly/in28minutes-java-fp)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://rebrand.ly/Udemy-Bonus-FunctionalProgramming)
 
 # Recommended Learning Paths
 
