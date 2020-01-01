@@ -1,5 +1,6 @@
-I hope you enjoyed the course! I would love to hear you success stories. Share them on LinkedIn with me along with your **Course Completion Certificates**.
-
+I hope you enjoyed the course! 
+I would love to hear you success stories. 
+Share them on LinkedIn with me along with your **Course Completion Certificates**.
 https://www.linkedin.com/in/rangakaranam/
 
 ## Top 5 Recommended Courses
