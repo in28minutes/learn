@@ -6,7 +6,7 @@ Share them on LinkedIn with me along with your **Course Completion Certificates*
 
 https://www.linkedin.com/in/rangakaranam/
 
-## Top 5 Recommended Courses
+## Learn from the Top 5 Best Selling Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://rebrand.ly/Udemy-Bonus-AWS-Beanstalk)
 
