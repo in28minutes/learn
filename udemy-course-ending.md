@@ -1,10 +1,13 @@
-I hope you enjoyed the course! 
+We hope you enjoyed the course! 
 
-I would love to hear you success stories. 
+Our goal is to help you master **Full Stack, Microservices and Cloud** with **Spring Boot, Docker, Kubernetes, AWS, Azure and PCF**. Thanks for helping us reach **350,000** Learners.
 
-Share them on LinkedIn with me along with your **Course Completion Certificates**.
+There are three things we recommend for you:
+1. Share Your [Feedback and Success Stories](http://links.in28minutes.com/feedback) with us.
+2. Share your [**Course Completion Certificates**](https://support.udemy.com/hc/en-us/articles/229603868-Certificate-of-Completion) with Ranga on [LinkedIn](https://www.linkedin.com/in/rangakaranam/).
+3. Become an expert on **Full Stack, Microservices and Cloud** with our Amazing Courses. We have **5 amazing learning paths** and **30+ Amazing Courses** listed below.
 
-https://www.linkedin.com/in/rangakaranam/
+[![Image](https://github.com/in28minutes/learn/blob/master/in28minutes-learning-paths.png "25 Best Selling Courses with 300,000 Learners")](./learning-paths)
 
 ## Learn from the Top 5 Best Selling Courses
 
