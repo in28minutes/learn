@@ -7,19 +7,6 @@ There are **three things** we recommend for you:
 2. Share your [**Course Completion Certificate**](https://links.in28minutes.com/udemy-bonus-certificate-of-completion) with Ranga on [**LinkedIn**](https://links.in28minutes.com/udemy-bonus-linkedin).
 3. **Become an expert** with **5 amazing learning paths** and **30+ Amazing Courses** listed below.
 
-[![Image](https://github.com/in28minutes/learn/blob/master/in28minutes-learning-paths.png "25 Best Selling Courses with 300,000 Learners")](./learning-paths)
-
-# Recommended Learning Paths For You
-
-> Skills, Learning Path, Videos and Course Recommendations
-
- - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
- - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
- - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
- - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
- - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
-
-
 ## Learn from the Top 5 Best Selling Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
@@ -35,6 +22,18 @@ There are **three things** we recommend for you:
 [![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://links.in28minutes.com/Udemy-Bonus-Spring)
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://links.in28minutes.com/Udemy-Bonus-FunctionalProgramming)
+
+
+# Recommended Learning Paths For You
+
+> Skills, Learning Path, Videos and Course Recommendations
+
+ - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
+ - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
+ - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
+ - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
+ - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
+
 
 ## Full Stack Courses
 
