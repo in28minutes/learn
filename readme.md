@@ -10,7 +10,7 @@ You do not learn to drive by watching Tom Cruise drive at 300 kmph! You have to 
 
 We have build solutions to help you **learn Cloud, Full Stack and Microservices in 1-3 Months**.
 
-I'm alway available for questions. Feel feel to email me at ranga@in28minutes.com!
+I'm always available for questions. Feel feel to email me at ranga@in28minutes.com!
 
 Have a great learning experience!
 
