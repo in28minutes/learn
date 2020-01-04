@@ -1,6 +1,6 @@
 # Cloud, Full Stack and Microservice Courses from in28Minutes
 
-![in28MinutesLearningRoadmap-July2019.png](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)
+![in28minutes-learning-paths.png](https://github.com/in28minutes/learn/raw/master/in28minutes-learning-paths.png)
 
 # Best Selling Courses
 
