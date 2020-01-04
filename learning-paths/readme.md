@@ -12,4 +12,4 @@
 
 ## Which Learning Path to Choose?
 
-- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://rebrand.ly/in28minutes-LP-Overview-Video)
+- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://links.in28minutes.com/in28minutes-LP-Overview-Video)

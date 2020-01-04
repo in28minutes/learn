@@ -26,9 +26,9 @@ We use a Problem Solution based Step by Step Hands-on Learning Approach.
 
 ## AWS and Cloud Courses
 
-[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://rebrand.ly/MISC-DOCKER)
+[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/MISC-DOCKER)
 
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://rebrand.ly/MISC-AZURE)
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/MISC-AZURE)
 
 Learn Docker containerizing Java Spring Boot Apps - REST API, Full Stack and Microservices with Docker Compose
 
@@ -56,7 +56,7 @@ You will be using containerizing a variety of projects created with React (Front
 
 ## Pivotal Cloud Foundry (PCF) Crash Course - Spring Boot Apps
 
-[![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://rebrand.ly/MISC-PCF)
+[![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://links.in28minutes.com/MISC-PCF)
 How about learning PCF (Pivotal Cloud Foundry) deploying Spring Applications to Cloud using Pivotal Cloud Foundry?
 
 Pivotal Cloud Foundry (PCF) provides a great cloud native platform to deploy Spring Boot Applications.
@@ -83,7 +83,7 @@ You will be using deploying a variety of projects to Pivotal Cloud Foundry (PCF)
 
 ## Deploy Java Spring Boot Apps to AWS with Elastic Beanstalk
 
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://rebrand.ly/MISC-AWS-BEANSTALK)
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/MISC-AWS-BEANSTALK)
 
 How about learning AWS (Amazon Web Services)  deploying Spring Applications to Cloud using Elastic Beanstalk?
 
@@ -113,7 +113,7 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 
 ## Deploy Spring Boot Microservices to AWS - ECS & AWS Fargate
 
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://rebrand.ly/MISC-FARGATE)
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://links.in28minutes.com/MISC-FARGATE)
 
 AWS (Amazon Web Services) is the No 1 Cloud Service Provider today. Spring Boot is the No 1 Java Framework to develop REST API and Microservices.
 
@@ -153,7 +153,7 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://rebrand.ly/MISC-REACT)
+[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://links.in28minutes.com/MISC-REACT)
 
 Developing your first full stack web application with React and Spring Boot is fun.
 
@@ -169,7 +169,7 @@ React is a view framework providing great deal of flexibility in integrating wit
 
 ## Go Full Stack with Spring Boot and Angular
 
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png "Go Full Stack with Spring Boot and Angular")](https://rebrand.ly/MISC-ANGULAR)
+[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png "Go Full Stack with Spring Boot and Angular")](https://links.in28minutes.com/MISC-ANGULAR)
 
 Developing your first full stack web application with Angular and Spring Boot is fun.
 
@@ -184,7 +184,7 @@ Angular is a complete front end framework with a wide range of features. Spring 
 
 ## Your First Steps from Programmer to Software Architect
 
-[![Image](https://www.springboottutorial.com/images/Course-Your-First-Steps-From-Programmer-To-Software-Architect.png "Your First Steps from Programmer to Software Architect")](https://rebrand.ly/MISC-SOFTWARE-ARCHITECT)
+[![Image](https://www.springboottutorial.com/images/Course-Your-First-Steps-From-Programmer-To-Software-Architect.png "Your First Steps from Programmer to Software Architect")](https://links.in28minutes.com/MISC-SOFTWARE-ARCHITECT)
 
 How to become a Software Architect? This is the number one question that I’m asked when talking to Programmers and Senior Developers. And this course provides an answer to that question.
 
@@ -199,7 +199,7 @@ In this course, we will NOT discuss about specific architecture patterns. The ob
 
 ## Your First Steps from Programmer to Software Architect
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://rebrand.ly/MISC-MICROSERVICES)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://links.in28minutes.com/MISC-MICROSERVICES)
 
 Developing RESTful web services and REST API is fun. The combination of Java, Spring Boot, Spring Web MVC, Spring Web Services and JPA makes it even more fun. And its even more fun to create Microservices.
 
@@ -219,7 +219,7 @@ In this part of the course, you will learn to establish communication between mi
 
 ## Master Hibernate and JPA with Spring Boot in 100 Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Hibernate-and-JPA-with-Spring-Boot-in-100-Steps.png "Master Hibernate and JPA with Spring Boot in 100 Steps")](https://rebrand.ly/MISC-JPA)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Hibernate-and-JPA-with-Spring-Boot-in-100-Steps.png "Master Hibernate and JPA with Spring Boot in 100 Steps")](https://links.in28minutes.com/MISC-JPA)
 
 Hibernate is the most popular implementation of JPA. It was the most popular ORM framework option before JPA emerged and it provides additional features on top of JPA. We will use Hibernate as the JPA implementation in this course.
 
@@ -245,7 +245,7 @@ During this course
 
 ## Spring Master Class - Beginner to Expert
 
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://rebrand.ly/MISC-SPRING)
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://links.in28minutes.com/MISC-SPRING)
 
 In this course, you will learn the features of Spring, Spring Boot and Spring Modules - JDBC, AOP, Data JPA with hands-on step by step approach.
 
@@ -275,7 +275,7 @@ You will learn about
 
 ## Master Java Web Services and REST API with Spring Boot
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Web-Services-and-REST-API-with-Spring-Boot.png "Master Java Web Services and REST API with Spring Boot")](https://rebrand.ly/MISC-SPRING-WEB-SERVICES)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Web-Services-and-REST-API-with-Spring-Boot.png "Master Java Web Services and REST API with Spring Boot")](https://links.in28minutes.com/MISC-SPRING-WEB-SERVICES)
 
 Developing SOAP and RESTful web services is fun. The combination of Spring Boot, Spring Web MVC, Spring Web Services and JPA makes it even more fun.
 
@@ -297,7 +297,7 @@ In this part of the course, you will be using Spring (Dependency Management), Sp
 
 ## Learn Spring Boot in 100 Steps - Beginner to Expert
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert.png "Learn Spring Boot in 100 Steps - Beginner to Expert")](https://rebrand.ly/MISC-SPRING-BOOT)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Spring-Boot-in-100-Steps---Beginner-to-Expert.png "Learn Spring Boot in 100 Steps - Beginner to Expert")](https://links.in28minutes.com/MISC-SPRING-BOOT)
 
 Spring Boot has a lot of magic going for it. Developing REST Services with Spring Boot is cool and fun. Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can “just run”. Most Spring Boot applications need very little Spring configuration.
 
@@ -317,19 +317,19 @@ You will learn about Spring Boot step by step - in more than 100 steps. This cou
 
 # Other Courses
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Unit-Testing-with-Spring-Boot-Mockito.png "Master Java Unit Testing with Spring Boot & Mockito")](https://rebrand.ly/MISC-SBT-UT)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Unit-Testing-with-Spring-Boot-Mockito.png "Master Java Unit Testing with Spring Boot & Mockito")](https://links.in28minutes.com/MISC-SBT-UT)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Unit-Testing-With-JUnit-and-Mockito.png "Mockito Tutorial : Learn mocking with 25 Junit Examples")](https://rebrand.ly/MISC-MOCKITO)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Unit-Testing-With-JUnit-and-Mockito.png "Mockito Tutorial : Learn mocking with 25 Junit Examples")](https://links.in28minutes.com/MISC-MOCKITO)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Java-EE-Made-Easy.png "Java EE Made Easy - Patterns, Architecture and Frameworks")](https://rebrand.ly/MISC-JAVAEE)
+[![Image](https://www.springboottutorial.com/images/Course-Java-EE-Made-Easy.png "Java EE Made Easy - Patterns, Architecture and Frameworks")](https://links.in28minutes.com/MISC-JAVAEE)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Spring-MVC-For-Beginners-Build-Java-Web-App-in-25-Steps.png "Spring MVC For Beginners : Build Java Web App in 25 Steps")](https://rebrand.ly/MISC-SPRING-MVC)
+[![Image](https://www.springboottutorial.com/images/Course-Spring-MVC-For-Beginners-Build-Java-Web-App-in-25-Steps.png "Spring MVC For Beginners : Build Java Web App in 25 Steps")](https://links.in28minutes.com/MISC-SPRING-MVC)
 
 <div style="page-break-after: always;"></div>
 
@@ -341,44 +341,44 @@ You will learn about Spring Boot step by step - in more than 100 steps. This cou
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Maven-Tutorial-Manage-Java-Dependencies-in-20-Steps.png "Maven Tutorial - Manage Java Dependencies in 20 Steps")](https://rebrand.ly/MISC-MAVEN)
+[![Image](https://www.springboottutorial.com/images/Course-Maven-Tutorial-Manage-Java-Dependencies-in-20-Steps.png "Maven Tutorial - Manage Java Dependencies in 20 Steps")](https://links.in28minutes.com/MISC-MAVEN)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Java-Unit-Testing-with-JUnit-5-in-20-Steps.png "JUnit 5 Tutorial for Beginners - Learn Java Unit Testing")](https://rebrand.ly/MISC-JUNIT)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Java-Unit-Testing-with-JUnit-5-in-20-Steps.png "JUnit 5 Tutorial for Beginners - Learn Java Unit Testing")](https://links.in28minutes.com/MISC-JUNIT)
 
 ## Java and Spring Interview Guides
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://rebrand.ly/MISC-SPRING-INTERVIEW)
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://links.in28minutes.com/MISC-SPRING-INTERVIEW)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://rebrand.ly/MISC-JAVA-INTERVIEW)
+[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://links.in28minutes.com/MISC-JAVA-INTERVIEW)
 
 
 ## Learn Java, Python Programming and Automation Testing
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://rebrand.ly/MISC-JAVA-PYTHON)
+[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://links.in28minutes.com/MISC-JAVA-PYTHON)
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Azure Crash Course for Java Spring Boot Developers")](https://rebrand.ly/MISC-FP)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/MISC-FP)
 <div style="page-break-after: always;"></div>
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-Automation-Testing-with-Java-and-Selenium-Webdriver.png "Learn Automation Testing with Java and Selenium Webdriver
-")](https://rebrand.ly/MISC-SELENIUM)
+")](https://links.in28minutes.com/MISC-SELENIUM)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Programming-with-Python.png "Learn Programming with Python in 100 Steps")](https://rebrand.ly/MISC-PYTHON)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Programming-with-Python.png "Learn Programming with Python in 100 Steps")](https://links.in28minutes.com/MISC-PYTHON)
 
 <div style="page-break-after: always;"></div>
 
 [![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://rebrand.ly/MISC-JAVA)
+")](https://links.in28minutes.com/MISC-JAVA)
 
 <div style="page-break-after: always;"></div>
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](https://rebrand.ly/MISC-JSHELL)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](https://links.in28minutes.com/MISC-JSHELL)

@@ -26,7 +26,7 @@ We have a facebook group where you can post the challenges you face and the grou
 ## How can I choose the right learning challenge?
 
 You can watch this video to understand the high level architecture and decide where you would want to start!
-- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://rebrand.ly/in28minutes-LP-Overview-Video)
+- [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://links.in28minutes.com/in28minutes-LP-Overview-Video)
 
 
 ## Learning Challenges
