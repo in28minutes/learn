@@ -5,7 +5,7 @@ Our Goal is to help you master **Full Stack, Microservices and Cloud** with **Sp
 There are **three things** we recommend for you:
 1. Share Your [**Feedback and Success Stories**](http://links.in28minutes.com/udemy-bonus-feedback) with us.
 2. Share your [**Course Completion Certificate**](https://links.in28minutes.com/udemy-bonus-certificate-of-completion) with Ranga on [**LinkedIn**](https://links.in28minutes.com/udemy-bonus-linkedin).
-3. Become an expert on **Full Stack, Microservices and Cloud** with our Amazing Courses. We have **5 amazing learning paths** and **30+ Amazing Courses** listed below.
+3. **Become an expert** with **5 amazing learning paths** and **30+ Amazing Courses** listed below.
 
 [![Image](https://github.com/in28minutes/learn/blob/master/in28minutes-learning-paths.png "25 Best Selling Courses with 300,000 Learners")](./learning-paths)
 
