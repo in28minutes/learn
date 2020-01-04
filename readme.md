@@ -59,7 +59,14 @@ Have a great learning experience!
 
 [![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png "Go Full Stack with Spring Boot and Angular")](https://rebrand.ly/in28minutes-angular)
 
-## AWS, Azure and PCF
+## Docker and Kubernetes
+
+[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-Kubernetes)
+
+[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-Docker)
+
+
+## Cloud - AWS, Azure and PCF
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://rebrand.ly/in28minutes-aws-elastic-beanstalk)
 
@@ -68,13 +75,6 @@ Have a great learning experience!
 [![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://rebrand.ly/in28minutes-PCF)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-azure-web-apps)
-
-## Docker and Kubernetes
-
-
-[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-Kubernetes)
-
-[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://rebrand.ly/in28minutes-Docker)
 
 
 ## Spring, Spring Boot, JPA, Hibernate and Spring Cloud - REST API & Microservices
