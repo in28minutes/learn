@@ -1,6 +1,8 @@
 ## Our Goal
 
-Our Goal is to help you master **Full Stack, Microservices and Cloud** with **Spring Boot, Docker, Kubernetes, AWS, Azure and PCF**. Thanks for helping us reach **350,000** Learners.
+Our Goal is to help you master **Full Stack, Microservices and Cloud** with **Spring Boot, Docker, Kubernetes, AWS, Azure and PCF**. 
+
+Thanks for helping us reach **350,000** Learners.
 
 There are **three things** we recommend for you:
 1. Share Your [**Feedback and Success Stories**](http://links.in28minutes.com/udemy-bonus-feedback) with us.
