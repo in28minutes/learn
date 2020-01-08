@@ -1,14 +1,14 @@
-## Our Goal
+# 30 Best Selling Courses with 350,000 Learners
 
-in28minutes is providing amazing learning solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) to 350,000+ Udemy Learners. 
-
-Learning **Cloud, Full Stack and Microservices** is essential for a good developer. Set Yourselves a Goal and Start Learning in28Minutes Every Day.
+in28Minutes is providing amazing learning experiences to 350,000 Learners with best selling courses on AWS, PCF, Docker, Kubernetes, GCP, Azure, React and AngularJS with Spring Boot!
 
 Our solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) help you master **Full Stack, AWS, Azure, Docker, Kubernetes and Microservices** in **1-3 Months**.
 
-# Recommended Learning Paths For You
+## Recommended Learning Paths For You
 
-> Skills, Learning Path, Videos and Course Recommendations
+Learning **Cloud, Full Stack and Microservices** is essential for a good developer. Set Yourselves a Goal and Start Learning in28Minutes Every Day.
+
+Here are our 5 amazing learning paths to help you master **Cloud, Full Stack and Microservices**.
 
  - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
  - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
@@ -17,7 +17,7 @@ Our solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) help y
  - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
 
 
-## Keep Learning With These Best Selling Courses
+## Recommended Courses For You
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
 
@@ -104,9 +104,6 @@ Our solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) help y
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-JShell-Step-By-Step.png "Learn JShell with Java 9 - Step by Step ")](https://links.in28minutes.com/in28minutes-jshell)
 
-# 25 Best Selling Courses with 300,000 Learners
-
-in28Minutes is providing amazing learning experiences to 300,000 Learners with courses on AWS, PCF, Docker, Kubernetes, GCP, Azure, React and AngularJS with Spring Boot!
 
 [![Image](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png "25 Best Selling Courses with 300,000 Learners")](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
