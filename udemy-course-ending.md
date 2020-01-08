@@ -1,8 +1,13 @@
 # 30 Best Selling Courses with 350,000 Learners
 
-in28Minutes is providing amazing learning experiences to 350,000 Learners with best selling courses on AWS, PCF, Docker, Kubernetes, GCP, Azure, React and AngularJS with Spring Boot!
+in28Minutes is providing amazing learning experiences to 350,000 Learners.
 
-Our solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) help you master **Full Stack, AWS, Azure, Docker, Kubernetes and Microservices** in **1-3 Months**.
+We have amazing learning solutions helping you learn
+- **Microservices** with **Docker and Kubernetes**
+- **Full Stack Development** with **Angular and React**
+- **Cloud** with **AWS, Azure and PCF**
+
+You can master any of these in **1-3 Months** following **our amazing learning paths**.
 
 ## Recommended Learning Paths For You
 
