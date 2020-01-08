@@ -1,19 +1,16 @@
 # 30 Best Selling Courses with 350,000 Learners
 
-in28Minutes is providing amazing learning experiences to 350,000 Learners with **30+ amazing courses** on
+in28Minutes is providing amazing learning experiences to **350,000 Learners** with **30+ amazing courses** on
 - **Microservices** with **Docker and Kubernetes**
 - **Full Stack Development** with **Angular and React**
 - **Cloud** with **AWS, Azure and PCF**
 
-**You can master** these in **1-3 Months** following **5 amazing learning paths**.
-- [**Learning Path 01** - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
-- [**Learning Path 02** - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
-- [**Learning Path 03** - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
-- [**Learning Path 04** - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
-- [**Learning Path 05** - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
-
-
-## Recommended Courses For You
+**You can master** these with **5 amazing learning paths**.
+- [**Learning Path 01** - Spring & Spring Boot Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
+- [**Learning Path 02** - Full Stack with React & Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
+- [**Learning Path 03** - Microservices Developer with Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
+- [**Learning Path 04** - Cloud Developer with AWS, Azure & PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
+- [**Learning Path 05** - AWS Expert with Microservices, Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
 
