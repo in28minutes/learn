@@ -5,14 +5,14 @@ in28Minutes is providing amazing learning experiences to **350,000 Learners** wi
 - **Full Stack Development** with **Angular and React**
 - **Cloud** with **AWS, Azure and PCF**
 
+Complete list of courses [**here**](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
+
 **You can master** these with **5 amazing learning paths**.
 - [**Learning Path 01** - Spring & Spring Boot Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
 - [**Learning Path 02** - Full Stack with React & Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
 - [**Learning Path 03** - Microservices with Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
 - [**Learning Path 04** - Cloud with AWS, Azure & PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
 - [**Learning Path 05** - AWS with Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
-
-Complete list of courses [**here**](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
 
