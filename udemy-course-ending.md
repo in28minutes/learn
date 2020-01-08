@@ -1,11 +1,11 @@
 # 30 Best Selling Courses with 350,000 Learners
 
-in28Minutes is providing amazing learning experiences to 350,000 Learners with **30+ amazing courses** helping you learn
+in28Minutes is providing amazing learning experiences to 350,000 Learners with **30+ amazing courses** on
 - **Microservices** with **Docker and Kubernetes**
 - **Full Stack Development** with **Angular and React**
 - **Cloud** with **AWS, Azure and PCF**
 
-You can master these in **1-3 Months** following **5 amazing learning paths**.
+**You can master** these in **1-3 Months** following **5 amazing learning paths**.
 - [**Learning Path 01** - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
 - [**Learning Path 02** - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
 - [**Learning Path 03** - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
