@@ -10,7 +10,7 @@ Complete list of courses [**here**](https://github.com/in28minutes/learn/blob/ma
 **You can master** these with **5 amazing learning paths**.
 - [**Learning Path 01** - Spring & Spring Boot Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
 - [**Learning Path 02** - Full Stack with React & Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
-- [**Learning Path 03** - Microservices with Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
+- [**Learning Path 03** - Microservices - Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
 - [**Learning Path 04** - Cloud with AWS, Azure & PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
 - [**Learning Path 05** - AWS with Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
 
