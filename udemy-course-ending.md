@@ -1,15 +1,23 @@
 ## Our Goal
 
-Our Goal is to help you master **Full Stack, Microservices and Cloud** with **Spring Boot, Docker, Kubernetes, AWS, Azure and PCF**. 
+in28minutes is providing amazing learning solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) to 350,000+ Udemy Learners. 
 
-Thanks for helping us reach **350,000** Learners.
+Learning **Cloud, Full Stack and Microservices** is essential for a good developer. Set Yourselves a Goal and Start Learning in28Minutes Every Day.
 
-There are **three things** we recommend for you:
-1. Share Your [**Feedback and Success Stories**](http://links.in28minutes.com/udemy-bonus-feedback) with us.
-2. Share your [**Course Completion Certificate**](https://links.in28minutes.com/udemy-bonus-certificate-of-completion) with Ranga on [**LinkedIn**](https://links.in28minutes.com/udemy-bonus-linkedin).
-3. **Become an expert** with **5 amazing learning paths** and **30+ Amazing Courses** listed below.
+Our solutions (**5 amazing learning paths** and **30+ Amazing Courses** ) help you master **Full Stack, AWS, Azure, Docker, Kubernetes and Microservices** in **1-3 Months**.
 
-## Learn from the Top 5 Best Selling Courses
+# Recommended Learning Paths For You
+
+> Skills, Learning Path, Videos and Course Recommendations
+
+ - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
+ - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
+ - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
+ - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
+ - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
+
+
+## Keep Learning With These Best Selling Courses
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
 
@@ -25,17 +33,9 @@ There are **three things** we recommend for you:
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://links.in28minutes.com/Udemy-Bonus-FunctionalProgramming)
 
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://links.in28minutes.com/in28minutes-spring-interview)
 
-# Recommended Learning Paths For You
-
-> Skills, Learning Path, Videos and Course Recommendations
-
- - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
- - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
- - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
- - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
- - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
-
+[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://links.in28minutes.com/in28minutes-java-interview)
 
 ## Full Stack Courses
 
@@ -57,11 +57,6 @@ There are **three things** we recommend for you:
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Docker)
 
-## Java and Spring Interview Guides
-
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://links.in28minutes.com/in28minutes-spring-interview)
-
-[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://links.in28minutes.com/in28minutes-java-interview)
 
 ## Spring, Spring Boot and Spring Cloud - REST & Microservices
 
@@ -116,3 +111,12 @@ in28Minutes is providing amazing learning experiences to 300,000 Learners with c
 [![Image](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png "25 Best Selling Courses with 300,000 Learners")](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
 [Check out the complete list of courses](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
+
+## If You Are Still Reading This
+
+You must be an in28Minutes fan!
+
+We would love to hear from you!
+
+1. Share Your [**Feedback and Success Stories**](http://links.in28minutes.com/udemy-bonus-feedback) with us.
+2. Share your [**Course Completion Certificate**](https://links.in28minutes.com/udemy-bonus-certificate-of-completion) with Ranga on [**LinkedIn**](https://links.in28minutes.com/udemy-bonus-linkedin).
