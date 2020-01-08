@@ -8,11 +8,11 @@ We have amazing learning solutions helping you learn
 - **Cloud** with **AWS, Azure and PCF**
 
 You can master any of these in **1-3 Months** following **our amazing learning paths**.
-- [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
-- [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
-- [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
-- [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
-- [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
+- [**Learning Path 01** - Spring and Spring Boot Web Applications and API Developer](https://links.in28minutes.com/udemy-bonus-learning-path-01)
+- [**Learning Path 02** - Full Stack Java Developer with Spring Boot, React and Angular](https://links.in28minutes.com/udemy-bonus-learning-path-02)
+- [**Learning Path 03** - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-03)
+- [**Learning Path 04** - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
+- [**Learning Path 05** - Java AWS Expert with Microservices, Docker and Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
 
 
 ## Recommended Courses For You
