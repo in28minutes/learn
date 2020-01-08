@@ -12,7 +12,7 @@ in28Minutes is providing amazing learning experiences to **350,000 Learners** wi
 - [**Learning Path 04** - Cloud with AWS, Azure & PCF](https://links.in28minutes.com/udemy-bonus-learning-path-04)
 - [**Learning Path 05** - AWS with Docker & Kubernetes](https://links.in28minutes.com/udemy-bonus-learning-path-05)
 
-[**Check out the complete list of courses**](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
+Complete list of courses [**here**](https://github.com/in28minutes/learn/blob/master/udemy-course-ending.md#aws-and-cloud-courses)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
 
