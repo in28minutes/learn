@@ -10,6 +10,11 @@
  - [Learning Path 04 - Cloud Developer with Spring Boot, AWS, Azure and PCF](./04.md)
  - [Learning Path 05 - Learn AWS with Microservices, Docker and Kubernetes](./05.md)
 
+## Learning Path Videos
+
+https://www.youtube.com/playlist?list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un
+
+
 ## Which Learning Path to Choose?
 
 - [Java Architecture and Patterns - Full Stack, Cloud, Microservices with Docker & Kubernetes](https://links.in28minutes.com/in28minutes-LP-Overview-Video)
