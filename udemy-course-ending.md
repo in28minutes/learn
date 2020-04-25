@@ -1,5 +1,11 @@
 # 30 Best Selling Courses with 350,000 Learners
 
+Congratulations! It's time to continue your learning journey.
+
+[Subscribe to in28Minutes for all updates on our courses](https://links.in28minutes.com/udemy-ending-subscribe)
+
+Learn from our FREE COURSE - [Getting Started with DevOps and Cloud - Docker, Kubernetes, AWS and Azure](https://links.in28minutes.com/udemy-ending-free-devops)
+
 in28Minutes is providing amazing learning experiences to **350,000 Learners** with **30+ amazing courses** on
 - **Microservices** with **Docker and Kubernetes**
 - **Full Stack Development** with **Angular and React**
