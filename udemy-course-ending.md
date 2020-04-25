@@ -1,10 +1,15 @@
 # 30 Best Selling Courses with 350,000 Learners
 
-Congratulations! It's time to continue your learning journey.
+Congratulations! Your success makes me really happy. 
 
-[Subscribe to in28Minutes for updates and coupons for our courses](https://links.in28minutes.com/udemy-ending-subscribe)
+It's time to share your success with the world. Connect with [Ranga Karanam on LinkedIn](https://www.linkedin.com/in/rangakaranam/) and share your [Course Completion Certificate](https://support.udemy.com/hc/en-us/articles/229603868-Certificate-of-Completion).
 
-Learn from our FREE COURSE - [Getting Started with DevOps and Cloud - Docker, Kubernetes, AWS and Azure](https://links.in28minutes.com/udemy-ending-free-devops)
+[![Image](https://www.springboottutorial.com/images/udemy-course-completion.png "Course Completion")](https://links.in28minutes.com/Udemy-Bonus-AWS-Beanstalk)
+
+> [**Subscribe to in28Minutes** for updates and coupons on our courses](https://links.in28minutes.com/udemy-ending-subscribe)
+
+#### RECOMMENDED FOR YOU
+[**FREE COURSE - Getting Started with DevOps and Cloud - Docker, Kubernetes, AWS and Azure**](https://links.in28minutes.com/udemy-ending-free-devops)
 
 in28Minutes is providing amazing learning experiences to **350,000 Learners** with **30+ amazing courses** on
 - **Microservices** with **Docker and Kubernetes**
