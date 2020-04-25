@@ -2,7 +2,7 @@
 
 Congratulations! It's time to continue your learning journey.
 
-[Subscribe to in28Minutes for all updates on our courses](https://links.in28minutes.com/udemy-ending-subscribe)
+[Subscribe to in28Minutes for updates and coupons for our courses](https://links.in28minutes.com/udemy-ending-subscribe)
 
 Learn from our FREE COURSE - [Getting Started with DevOps and Cloud - Docker, Kubernetes, AWS and Azure](https://links.in28minutes.com/udemy-ending-free-devops)
 
