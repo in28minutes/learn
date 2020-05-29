@@ -14,6 +14,10 @@
 
 [![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
 
+## Recommended for everybody - AWS Certification
+
+[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png "AWS Architect Associate Certification")](https://links.in28minutes.com/aws-architect-associate-certification)
+
 ## Learning Path Videos
 
 https://www.youtube.com/playlist?list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un

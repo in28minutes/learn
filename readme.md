@@ -18,6 +18,8 @@ Have a great learning experience!
 
 ## Learn from our Amazing Best Selling Courses
 
+[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png "AWS Architect Associate Certification")](https://links.in28minutes.com/aws-architect-associate-certification)
+
 [![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/in28minutes-aws-elastic-beanstalk)
