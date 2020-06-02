@@ -1,4 +1,4 @@
-# Cloud, Full Stack and Microservice Courses from in28Minutes
+# Achieve Your Learning Goals with Cloud, Full Stack and Microservice Courses from in28Minutes
 
 ![in28minutes-learning-paths.png](https://github.com/in28minutes/learn/raw/master/in28minutes-learning-paths.png)
 
