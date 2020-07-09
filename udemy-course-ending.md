@@ -2,9 +2,13 @@
 
 Congratulations! Your success makes me really happy. 
 
-It's time to share your success with the world. Connect with [Ranga Karanam on LinkedIn](https://www.linkedin.com/in/rangakaranam/) and share your [Course Completion Certificate](https://support.udemy.com/hc/en-us/articles/229603868-Certificate-of-Completion).
+It's time to share your success with the world. 
 
-[![Image](https://www.springboottutorial.com/images/udemy-course-completion.png "Course Completion")](https://www.linkedin.com/feed/hashtag/in28minutes/)
+**Connect with** [Ranga Karanam on LinkedIn](https://www.linkedin.com/in/rangakaranam/) 
+
+**Share your** [Course Completion Certificate](https://support.udemy.com/hc/en-us/articles/229603868-Certificate-of-Completion).
+
+[![Image](https://www.springboottutorial.com/images/udemy-course-completion.png?i=1 "Course Completion")](https://www.linkedin.com/feed/hashtag/in28minutes/)
 
 > [**Subscribe to in28Minutes** for updates and coupons on our courses](https://links.in28minutes.com/udemy-ending-subscribe)
 
