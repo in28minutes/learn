@@ -2,9 +2,9 @@
 
 Congratulations! Time to *share your success* with the world.
 
-**STEP 1.Connect with** [Ranga Karanam on LinkedIn](https://links.in28minutes.com/linkedin) 
+**STEP 1. Connect with** [Ranga Karanam on LinkedIn](https://links.in28minutes.com/linkedin) 
 
-**STEP 2.Share your** [Course Completion Certificate](https://links.in28minutes.com/ccc).
+**STEP 2. Share your** [Course Completion Certificate](https://links.in28minutes.com/ccc).
 
 [![Image](https://www.springboottutorial.com/images/udemy-course-completion.png?i=1 "Course Completion")](https://www.linkedin.com/feed/hashtag/in28minutes/)
 
