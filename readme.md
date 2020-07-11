@@ -18,21 +18,21 @@ Have a great learning experience!
 
 ## Learn from our Amazing Best Selling Courses
 
-[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png "AWS Architect Associate Certification")](https://links.in28minutes.com/aws-architect-associate-certification)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://links.in28minutes.com/in28minutes-Microservices)
+
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://links.in28minutes.com/in28minutes-Spring)
+
+[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://links.in28minutes.com/in28minutes-React)
 
 [![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+
+[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png "AWS Architect Associate Certification")](https://links.in28minutes.com/aws-architect-associate-certification)
 
 [![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/in28minutes-aws-elastic-beanstalk)
 
 [![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Kubernetes)
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Docker)
-
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://links.in28minutes.com/in28minutes-React)
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://links.in28minutes.com/in28minutes-Microservices)
-
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://links.in28minutes.com/in28minutes-Spring)
 
 [![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://links.in28minutes.com/in28minutes-java-fp)
 
@@ -51,12 +51,6 @@ Have a great learning experience!
  - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./learning-paths/04.md)
  - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-paths/05.md)
 
-## Java and Spring Interview Guides
-
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://links.in28minutes.com/in28minutes-spring-interview)
-
-[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://links.in28minutes.com/in28minutes-java-interview)
-
 ## Full Stack with React and Angular
 
 [![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://links.in28minutes.com/in28minutes-React)
@@ -68,18 +62,6 @@ Have a great learning experience!
 [![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Kubernetes)
 
 [![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Docker)
-
-
-## Cloud - AWS, Azure and PCF
-
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/in28minutes-aws-elastic-beanstalk)
-
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://links.in28minutes.com/in28minutes-aws-ecs)
-
-[![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://links.in28minutes.com/in28minutes-PCF)
-
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-azure-web-apps)
-
 
 ## Spring, Spring Boot, JPA, Hibernate and Spring Cloud - REST API & Microservices
 
@@ -95,6 +77,22 @@ Have a great learning experience!
 
 [![Image](https://www.springboottutorial.com/images/Course-Spring-MVC-For-Beginners-Build-Java-Web-App-in-25-Steps.png "Spring MVC For Beginners : Build Java Web App in 25 Steps")](https://links.in28minutes.com/in28minutes-spring-mvc)
 
+
+## Java and Spring Interview Guides
+
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Interview-Guide-200-Questions-Answers.png "Spring Framework Interview Guide - 200+ Questions & Answers")](https://links.in28minutes.com/in28minutes-spring-interview)
+
+[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://links.in28minutes.com/in28minutes-java-interview)
+
+## Cloud - AWS, Azure and PCF
+
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/in28minutes-aws-elastic-beanstalk)
+
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Microservices-To-ECS.png "Deploying Spring Boot Microservices to AWS using ECS and AWS Fargate")](https://links.in28minutes.com/in28minutes-aws-ecs)
+
+[![Image](https://www.springboottutorial.com/images/Course-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps.png "Deploying Spring Boot Microservices to PCF Pivotal Cloud Foundry")](https://links.in28minutes.com/in28minutes-PCF)
+
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-azure-web-apps)
 
 ## Unit Testing with Spring Boot & Mockito
 
