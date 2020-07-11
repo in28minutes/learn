@@ -1,15 +1,20 @@
-# 30 Best Selling Courses with 350,000 Learners
+# Bonus Lecture - 5 Steps to Success
 
-Congratulations! Your success makes me really happy. 
+Congratulations! Time to *share your success* with the world.
 
-It's time to share your success with the world. Connect with [Ranga Karanam on LinkedIn](https://www.linkedin.com/in/rangakaranam/) and share your [Course Completion Certificate](https://support.udemy.com/hc/en-us/articles/229603868-Certificate-of-Completion).
+**STEP 1. Connect with** [Ranga Karanam on LinkedIn](https://links.in28minutes.com/linkedin) 
 
-[![Image](https://www.springboottutorial.com/images/udemy-course-completion.png "Course Completion")](https://www.linkedin.com/feed/hashtag/in28minutes/)
+**STEP 2. Share your** [Course Completion Certificate](https://links.in28minutes.com/ccc).
 
-> [**Subscribe to in28Minutes** for updates and coupons on our courses](https://links.in28minutes.com/udemy-ending-subscribe)
+[![Image](https://www.springboottutorial.com/images/udemy-course-completion.png?i=1 "Course Completion")](https://www.linkedin.com/feed/hashtag/in28minutes/)
 
-#### RECOMMENDED FOR YOU
-[**FREE COURSE - Getting Started with DevOps and Cloud - Docker, Kubernetes, AWS and Azure**](https://links.in28minutes.com/udemy-ending-free-devops)
+**STEP 3.** TRY OUR **FREE GETTING STARTED** COURSES
+
+**A. [Spring Boot](https://links.in28minutes.com/5-day-spring-spring-boot) B. [AWS](https://links.in28minutes.com/sbt-teachable-aws-solution-architect) C. [DevOps](https://links.in28minutes.com/udemy-ending-free-devops)**
+
+**STEP 4. BEST SELLING COURSES FOR YOU**
+
+**STEP 5: Learning Paths and other Best Selling Courses**
 
 in28Minutes is providing amazing learning experiences to **350,000 Learners** with **30+ amazing courses** on
 - **Microservices** with **Docker and Kubernetes**
