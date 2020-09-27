@@ -52,6 +52,7 @@ Have a great learning experience!
 
 > Skills, Learning Path, Videos and Course Recommendations
 
+ - [Learning Path 00 - DevOps with Docker, Kubernetes and Azure DevOps](./learning-paths/00.md)
  - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./learning-paths/01.md)
  - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](./learning-paths/02.md)
  - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](./learning-paths/03.md)
