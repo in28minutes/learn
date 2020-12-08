@@ -72,9 +72,9 @@ We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP,
 
 **STEP BY STEP COURSES:** ZERO AWS KNOWLEDGE? Start your journey now!
 
-- [AWS Certified Solutions Architect Associate - Step by Step](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?referralCode=17C170E214BBCA4215A2)
-- [[NEW] AWS Certified Cloud Practitioner - Step by Step](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?referralCode=CC97F2AE4BE944E8F190)
-- [[NEW] AWS Certified Developer Associate - Step by Step](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?referralCode=8F5DCA2483DD36E3DDE2)
+- [AWS Certified Solutions Architect Associate - Step by Step](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=100DAYS10NEWCOURSES)
+- [[NEW] AWS Certified Cloud Practitioner - Step by Step](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=100DAYS10NEWCOURSES)
+- [[NEW] AWS Certified Developer Associate - Step by Step](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=100DAYS10NEWCOURSES)
 
 **EXAM REVIEW COURSES:** You prepare for the exam for 1-6 months. How do you remember everything you studied? Review for the exam in under 6 HOURS using this crash courses!
 
