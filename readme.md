@@ -86,6 +86,7 @@ We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP,
 
 - [[NEW] AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/?referralCode=2E0DCC0C247F633CB597)
 - [[NEW] AWS Certified Developer Associate Practice Tests](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-5/?referralCode=CD3CD9076D77F6CECD80)
+- [[NEW] AWS Certified Solution Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solution-architect-associate-practice-tests/?referralCode=1D2375C381CB0C1D994C)
 
 ## SERVERLESS AND DEVOPS
 
