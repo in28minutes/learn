@@ -86,6 +86,7 @@ We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP,
 
 - [[NEW] AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/?referralCode=2E0DCC0C247F633CB597)
 - [[NEW] AWS Certified Developer Associate Practice Tests](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-5/?referralCode=CD3CD9076D77F6CECD80)
+- [[NEW] AWS Certified Solution Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solution-architect-associate-practice-tests/?referralCode=1D2375C381CB0C1D994C)
 
 ## SERVERLESS AND DEVOPS
 
@@ -108,6 +109,8 @@ We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP,
 - [Master Java Web Services and RESTful API with Spring Boot](https://www.udemy.com/course/spring-web-services-tutorial/?referralCode=313AB5BCC3CBBC93C20E)
 - [Spring & Spring Boot Interview Guide](https://www.udemy.com/course/spring-interview-questions-and-answers/?referralCode=25AB4487025B7D931E68)
 - [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?referralCode=A3F8F65C26F48C510DB3)
+- [Learn Apache Camel Framework with Spring Boot](https://www.udemy.com/course/apache-camel-framework-with-spring-boot/?referralCode=774C8A8D52C345652EC9)
+
 
 ## HANDS-ON CLOUD COURSES
 - [Docker in AWS - Deploy Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/?referralCode=E42DAC845ECB06C06F3C)
