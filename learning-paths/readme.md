@@ -1,6 +1,6 @@
-# Learning Paths
+# in28minutes Learning Paths
 
-## Learning Paths
+## in28minutes Learning Paths
 
 > Skills, Learning Path, Videos and Course Recommendations
  - [Learning Path 00 - DevOps - Docker, Kubernetes and Azure DevOps](./00.md)
