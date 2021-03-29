@@ -6,7 +6,7 @@
 
 You do not learn to drive by watching Tom Cruise drive at 300 kmph! You have to **get your hands dirty**.
 
-**Our goal** is to help you **learn and re-skill** Spring Boot, Microservices, Full Stack, Cloud (AWS), Docker and Kubernetes with **hands-on, practical courses**.
+**Our goal** is to help you **learn and re-skill** Spring Boot, Microservices, Full Stack, Cloud (AWS, GCP and Azure), Docker and Kubernetes with **hands-on, practical courses**.
 
 We have build solutions to help you **learn Cloud, Full Stack and Microservices in 1-3 Months**.
 
@@ -18,7 +18,10 @@ Have a great learning experience!
 
 ## NEW!!!
 
-NEW! Check out our 8 Amazing AWS Certification Courses [here](./learning-paths/aws-certifications.md)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+
+[![Image](https://www.springboottutorial.com/images/Course-gcp-aws.png "Google Cloud For AWS")](https://www.udemy.com/course/google-cloud-platform-for-aws-professionals/)
+
 
 [![Image](https://www.springboottutorial.com/images/Course-go-serverless.png "Go Serverless with AWS Lambda and Azure Functions")](https://links.in28minutes.com/serverless-learn)
 
@@ -62,31 +65,6 @@ NEW! Check out our 8 Amazing AWS Certification Courses [here](./learning-paths/a
  - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-paths/05.md)
 - [8 Amazing AWS Certification Courses](./learning-paths/aws-certifications.md)
 
-
-## AWS CERTIFICATION COURSES - 3 CATEGORIES
-
-We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP, EXAM REVIEW and PRACTICE TESTS:
-- **Step by Step** courses are for you if you are getting started with AWS
-- **Exam Review** courses help you to quickly review for the exam in a few hours
-- **Practice Tests** help you to test your preparation - How ready are you for the exam?
-
-**STEP BY STEP COURSES:** ZERO AWS KNOWLEDGE? Start your journey now!
-
-- [AWS Certified Solutions Architect Associate - Step by Step](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?referralCode=17C170E214BBCA4215A2)
-- [[NEW] AWS Certified Cloud Practitioner - Step by Step](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?referralCode=CC97F2AE4BE944E8F190)
-- [[NEW] AWS Certified Developer Associate - Step by Step](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?referralCode=8F5DCA2483DD36E3DDE2)
-
-**EXAM REVIEW COURSES:** You prepare for the exam for 1-6 months. How do you remember everything you studied? Review for the exam in under 6 HOURS using this crash courses!
-
-- [[NEW] Exam Review - AWS Certified Cloud Practitioner](https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/?referralCode=51394EF1D035F1B5FB26)
-- [[NEW] Exam Review - AWS Certified Developer Associate](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/?referralCode=491B8743371EE97FCE33)
-- [[NEW] Exam Review - AWS Certified Solution Architect Associate](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/?referralCode=1C88146E1248A956F1D3)
-
-**PRACTICE TESTS:** Test yourselves for the certification exam with our practice tests
-
-- [[NEW] AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/?referralCode=2E0DCC0C247F633CB597)
-- [[NEW] AWS Certified Developer Associate Practice Tests](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-5/?referralCode=CD3CD9076D77F6CECD80)
-- [[NEW] AWS Certified Solution Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solution-architect-associate-practice-tests/?referralCode=1D2375C381CB0C1D994C)
 
 ## SERVERLESS AND DEVOPS
 
@@ -136,6 +114,33 @@ We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP,
 - [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/course/java-interview-questions-and-answers/?referralCode=8B21DED74058B9E55CAF)
 - [Learn JShell with Java 9 - Step by Step](https://www.udemy.com/course/jshell-tutorial-for-beginners-with-java-9/?referralCode=FC9F01FDEBD8372455B8)
 - [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?referralCode=A8DF2E8DB62843066FDB)
+
+
+## AWS CERTIFICATION COURSES - 3 CATEGORIES
+
+We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP, EXAM REVIEW and PRACTICE TESTS:
+- **Step by Step** courses are for you if you are getting started with AWS
+- **Exam Review** courses help you to quickly review for the exam in a few hours
+- **Practice Tests** help you to test your preparation - How ready are you for the exam?
+
+**STEP BY STEP COURSES:** ZERO AWS KNOWLEDGE? Start your journey now!
+
+- [AWS Certified Solutions Architect Associate - Step by Step](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?referralCode=17C170E214BBCA4215A2)
+- [[NEW] AWS Certified Cloud Practitioner - Step by Step](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?referralCode=CC97F2AE4BE944E8F190)
+- [[NEW] AWS Certified Developer Associate - Step by Step](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?referralCode=8F5DCA2483DD36E3DDE2)
+
+**EXAM REVIEW COURSES:** You prepare for the exam for 1-6 months. How do you remember everything you studied? Review for the exam in under 6 HOURS using this crash courses!
+
+- [[NEW] Exam Review - AWS Certified Cloud Practitioner](https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/?referralCode=51394EF1D035F1B5FB26)
+- [[NEW] Exam Review - AWS Certified Developer Associate](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/?referralCode=491B8743371EE97FCE33)
+- [[NEW] Exam Review - AWS Certified Solution Architect Associate](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/?referralCode=1C88146E1248A956F1D3)
+
+**PRACTICE TESTS:** Test yourselves for the certification exam with our practice tests
+
+- [[NEW] AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/?referralCode=2E0DCC0C247F633CB597)
+- [[NEW] AWS Certified Developer Associate Practice Tests](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-5/?referralCode=CD3CD9076D77F6CECD80)
+- [[NEW] AWS Certified Solution Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solution-architect-associate-practice-tests/?referralCode=1D2375C381CB0C1D994C)
+
 
 ## OTHER COURSES
 - [Learn Java Automation Testing with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/?referralCode=0CAAEDF7C042BD1856A6)
