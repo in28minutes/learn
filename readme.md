@@ -61,8 +61,7 @@ Have a great learning experience!
 
 [![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?referralCode=64295CD392595A792850)
 
-[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86
-Course-gcp-pca.png)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png "Google Cloud Certification - Architect")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86)
 
 
 ## SERVERLESS AND DEVOPS
