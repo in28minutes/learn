@@ -18,15 +18,7 @@ Have a great learning experience!
 
 ## NEW!!!
 
-[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
-
-[![Image](https://www.springboottutorial.com/images/Course-gcp-aws.png "Google Cloud For AWS")](https://www.udemy.com/course/google-cloud-platform-for-aws-professionals/)
-
-
-[![Image](https://www.springboottutorial.com/images/Course-go-serverless.png "Go Serverless with AWS Lambda and Azure Functions")](https://links.in28minutes.com/serverless-learn)
-
-[![Image](https://www.springboottutorial.com/images/Course-clean-code.png "Clean Code with Java: Learn Simple Design, Refactoring & TDD")](https://links.in28minutes.com/clean-code-learn)
-
+[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Azure Az-900")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?referralCode=FF729C7FA542437E9097)
 
 ## Learn from our Amazing Best Selling Courses
 
@@ -64,6 +56,13 @@ Have a great learning experience!
  - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./learning-paths/04.md)
  - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-paths/05.md)
 - [8 Amazing AWS Certification Courses](./learning-paths/aws-certifications.md)
+
+## Google Cloud
+
+[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?referralCode=64295CD392595A792850)
+
+[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86
+Course-gcp-pca.png)
 
 
 ## SERVERLESS AND DEVOPS
