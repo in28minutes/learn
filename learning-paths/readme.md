@@ -1,5 +1,9 @@
 # in28minutes Learning Paths
 
+## WARNING: These Learning Paths are Deprecated
+
+Please check our roadmap repo - https://github.com/in28minutes/roadmaps - for the latest updates.
+
 ## in28minutes Learning Paths
 
 > Skills, Learning Path, Videos and Course Recommendations

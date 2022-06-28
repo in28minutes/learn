@@ -1,5 +1,10 @@
 # AWS CERTIFICATION COURSES FROM in28minutes
 
+## WARNING: These Learning Paths are Deprecated
+
+Please check our roadmap repo - https://github.com/in28minutes/roadmaps - for the latest updates.
+
+
 ## Learning Paths
 
 > Skills, Learning Path, Videos and Course Recommendations

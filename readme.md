@@ -18,100 +18,95 @@ Have a great learning experience!
 
 ## NEW!!!
 
-[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Azure Az-900")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?referralCode=FF729C7FA542437E9097)
+[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Azure Az-900")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JULY2022)
 
 ## Learn from our Amazing Best Selling Courses
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://links.in28minutes.com/in28minutes-Microservices)
+[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://links.in28minutes.com/in28minutes-Spring)
+[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://links.in28minutes.com/in28minutes-React)
+[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png "AWS Architect Associate Certification")](https://links.in28minutes.com/aws-architect-associate-certification)
+[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png "AWS Architect Associate Certification")](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://links.in28minutes.com/in28minutes-aws-elastic-beanstalk)
+[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Kubernetes)
+[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/in28minutes-Docker)
+[![Image](https://www.springboottutorial.com/images/Course-DockerCrashCourseForJavaSpringBootDevelopers.png "Docker Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://links.in28minutes.com/in28minutes-java-fp)
+[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Functional Programming with Java")](https://www.udemy.com/course/functional-programming-with-java/?couponCode=JULY2022)
 
 [![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://links.in28minutes.com/in28minutes-java)
+")](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=JULY2022)
 
-[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://links.in28minutes.com/in28minutes-java-python)
+[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://www.udemy.com/course/python-tutorial-for-beginners/?couponCode=JULY2022)
 
 ## Recommended Learning Paths
 
-> Skills, Learning Path, Videos and Course Recommendations
+> Checkout our Roadmaps 
 
- - [Learning Path 00 - DevOps with Docker, Kubernetes and Azure DevOps](./learning-paths/00.md)
- - [Learning Path 01 - Spring and Spring Boot Web Applications and API Developer](./learning-paths/01.md)
- - [Learning Path 02 - Full Stack Java Developer with Spring Boot, React and Angular](./learning-paths/02.md)
- - [Learning Path 03 - Java Cloud Microservices Developer with Spring Boot, Docker and Kubernetes](./learning-paths/03.md)
- - [Learning Path 04 - Java Cloud Web Developer with Spring Boot, AWS, Azure and PCF](./learning-paths/04.md)
- - [Learning Path 05 - Java AWS Expert with Microservices, Docker and Kubernetes](./learning-paths/05.md)
-- [8 Amazing AWS Certification Courses](./learning-paths/aws-certifications.md)
-
+https://github.com/in28minutes/roadmaps
+ 
 ## Google Cloud
 
-[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png "Google Cloud Certification")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?referralCode=64295CD392595A792850)
-
-[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png "Google Cloud Certification - Architect")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png " Course")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png " Course")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-pcd.png " Course")](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=JULY2022)
 
 
 ## SERVERLESS AND DEVOPS
 
-- [Go Serverless with AWS Lambda and Azure Functions](https://www.udemy.com/course/serverless-tutorial-aws-lambda-and-azure-functions/?referralCode=FEE4D6C2FE67B6F1C228)
-- [Master DevOps with Docker, Kubernetes and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?referralCode=F93F55C6C35088856B37)
-- [Master Docker with Java - DevOps for Spring Microservices](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?referralCode=4142AD98678F24F8D6F2)
-- [Master Kubernetes with Docker on Google Cloud, AWS & Azure](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/?referralCode=6DB689318954F1CD4450)
+- [Go Serverless with AWS Lambda and Azure Functions](https://www.udemy.com/course/serverless-tutorial-aws-lambda-and-azure-functions/?couponCode=JULY2022)
+- [Master DevOps with Docker, Kubernetes and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+- [Master Docker with Java - DevOps for Spring Microservices](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/?couponCode=JULY2022)
+- [Master Kubernetes with Docker on Google Cloud, AWS & Azure](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/?couponCode=JULY2022)
 
 ## GO FULL STACK
 
-- [Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?referralCode=011818996D7E69AA043A)
-- [Go Java Full Stack with Spring Boot and React](https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?referralCode=79D51E0FC41B136F0C36)
+- [Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=JULY2022)
+- [Go Java Full Stack with Spring Boot and React](https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?couponCode=JULY2022)
 
 ## MICROSERVICES, SPRING, SPRING BOOT AND JPA
 
-- [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?referralCode=B0F90E21D02F74EDD96D)
-- [Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?referralCode=366336D53D708ED0B4A7)
-- [Spring MVC For Beginners - Build Java Web App in 25 Steps](https://www.udemy.com/course/spring-mvc-tutorial-for-beginners-step-by-step/?referralCode=D03D49134873223A7758)
-- [Learn Spring Boot in 100 Steps - Beginner to Expert](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?referralCode=3E34C56191F10E5519B8)
-- [Master Java Web Services and RESTful API with Spring Boot](https://www.udemy.com/course/spring-web-services-tutorial/?referralCode=313AB5BCC3CBBC93C20E)
-- [Spring & Spring Boot Interview Guide](https://www.udemy.com/course/spring-interview-questions-and-answers/?referralCode=25AB4487025B7D931E68)
-- [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?referralCode=A3F8F65C26F48C510DB3)
-- [Learn Apache Camel Framework with Spring Boot](https://www.udemy.com/course/apache-camel-framework-with-spring-boot/?referralCode=774C8A8D52C345652EC9)
+- [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=JULY2022)
+- [Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=JULY2022)
+- [Spring MVC For Beginners - Build Java Web App in 25 Steps](https://www.udemy.com/course/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=JULY2022)
+- [Learn Spring Boot in 100 Steps - Beginner to Expert](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?couponCode=JULY2022)
+- [Master Java Web Services and RESTful API with Spring Boot](https://www.udemy.com/course/spring-web-services-tutorial/?couponCode=JULY2022)
+- [Spring & Spring Boot Interview Guide](https://www.udemy.com/course/spring-interview-questions-and-answers/?couponCode=JULY2022)
+- [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=JULY2022)
+- [Learn Apache Camel Framework with Spring Boot](https://www.udemy.com/course/apache-camel-framework-with-spring-boot/?couponCode=JULY2022)
 
 
 ## HANDS-ON CLOUD COURSES
-- [Docker in AWS - Deploy Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/?referralCode=E42DAC845ECB06C06F3C)
-- [Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/?referralCode=BE833679CA30A6DF4392)
-- [Master Pivotal Cloud Foundry (PCF) with Spring Microservices](https://www.udemy.com/course/learn-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps/?referralCode=49E107F7B413FC4641D3)
-- [Master Azure Web Apps - Take Java Spring Boot Apps to Azure](https://www.udemy.com/course/deploy-spring-boot-to-azure/?referralCode=935A211730976815F8F1)
+- [Docker in AWS - Deploy Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/?couponCode=JULY2022)
+- [Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=JULY2022)
+- [Master Pivotal Cloud Foundry (PCF) with Spring Microservices](https://www.udemy.com/course/learn-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps/?couponCode=JULY2022)
+- [Master Azure Web Apps - Take Java Spring Boot Apps to Azure](https://www.udemy.com/course/deploy-spring-boot-to-azure/?couponCode=JULY2022)
 
 ## UNIT TESTING COURSES
 
-- [Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/course/junit-tutorial-for-beginners-with-java-examples/?referralCode=4D4BE68A9F841C58B379)
-- [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/?referralCode=9AE57353B3B8DDDC42A2)
-- [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?referralCode=AF5CE698457224D64537)
+- [Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/course/junit-tutorial-for-beginners-with-java-examples/?couponCode=JULY2022)
+- [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/?couponCode=JULY2022)
+- [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=JULY2022)
 
 ## ARCHITECTURE
 
-- [Java EE Made Easy - Patterns, Architecture and Frameworks](https://www.udemy.com/course/java-ee-design-patterns-architecture-and-frameworks/?referralCode=E7054863E4C1CED2745F)
-- [Your First Steps from Programmer to Software Architect](https://www.udemy.com/course/software-architect-course-first-steps/?referralCode=D98542CF4D7BE64DC9A1)
+- [Java EE Made Easy - Patterns, Architecture and Frameworks](https://www.udemy.com/course/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JULY2022)
+- [Your First Steps from Programmer to Software Architect](https://www.udemy.com/course/software-architect-course-first-steps/?couponCode=JULY2022)
 
 ## JAVA FUNDAMENTALS
-- [Clean Code with Java: Learn Simple Design, Refactoring & TDD](https://www.udemy.com/course/java-clean-code-with-refactoring-and-tdd/?referralCode=201A00544D2D754A688F)
-- [Learn Java Functional Programming with Lambdas & Streams](https://www.udemy.com/course/functional-programming-with-java/?referralCode=363DF55C13A42D930F78)
-- [Maven Tutorial - Manage Java Dependencies in 20 Steps](https://www.udemy.com/course/learn-maven-java-dependency-management-in-20-steps/?referralCode=5C787D95C3A808C4EF81)
-- [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/course/java-interview-questions-and-answers/?referralCode=8B21DED74058B9E55CAF)
-- [Learn JShell with Java 9 - Step by Step](https://www.udemy.com/course/jshell-tutorial-for-beginners-with-java-9/?referralCode=FC9F01FDEBD8372455B8)
-- [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?referralCode=A8DF2E8DB62843066FDB)
+- [Clean Code with Java: Learn Simple Design, Refactoring & TDD](https://www.udemy.com/course/java-clean-code-with-refactoring-and-tdd/?couponCode=JULY2022)
+- [Learn Java Functional Programming with Lambdas & Streams](https://www.udemy.com/course/functional-programming-with-java/?couponCode=JULY2022)
+- [Maven Tutorial - Manage Java Dependencies in 20 Steps](https://www.udemy.com/course/learn-maven-java-dependency-management-in-20-steps/?couponCode=JULY2022)
+- [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/course/java-interview-questions-and-answers/?couponCode=JULY2022)
+- [Learn JShell with Java 9 - Step by Step](https://www.udemy.com/course/jshell-tutorial-for-beginners-with-java-9/?couponCode=JULY2022)
+- [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=JULY2022)
 
 
 ## AWS CERTIFICATION COURSES - 3 CATEGORIES
@@ -123,27 +118,25 @@ We are releasing courses for 3 Certifications under 3 categories - STEP BY STEP,
 
 **STEP BY STEP COURSES:** ZERO AWS KNOWLEDGE? Start your journey now!
 
-- [AWS Certified Solutions Architect Associate - Step by Step](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?referralCode=17C170E214BBCA4215A2)
-- [[NEW] AWS Certified Cloud Practitioner - Step by Step](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?referralCode=CC97F2AE4BE944E8F190)
-- [[NEW] AWS Certified Developer Associate - Step by Step](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?referralCode=8F5DCA2483DD36E3DDE2)
+- [AWS Certified Solutions Architect Associate - Step by Step](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=JULY2022)
+- [[NEW] AWS Certified Cloud Practitioner - Step by Step](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=JULY2022)
+- [[NEW] AWS Certified Developer Associate - Step by Step](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=JULY2022)
 
 **EXAM REVIEW COURSES:** You prepare for the exam for 1-6 months. How do you remember everything you studied? Review for the exam in under 6 HOURS using this crash courses!
 
-- [[NEW] Exam Review - AWS Certified Cloud Practitioner](https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/?referralCode=51394EF1D035F1B5FB26)
-- [[NEW] Exam Review - AWS Certified Developer Associate](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/?referralCode=491B8743371EE97FCE33)
-- [[NEW] Exam Review - AWS Certified Solution Architect Associate](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/?referralCode=1C88146E1248A956F1D3)
+- [[NEW] Exam Review - AWS Certified Cloud Practitioner](https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/?couponCode=JULY2022)
+- [[NEW] Exam Review - AWS Certified Developer Associate](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/?couponCode=JULY2022)
+- [[NEW] Exam Review - AWS Certified Solution Architect Associate](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/?couponCode=JULY2022)
 
 **PRACTICE TESTS:** Test yourselves for the certification exam with our practice tests
 
-- [[NEW] AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/?referralCode=2E0DCC0C247F633CB597)
-- [[NEW] AWS Certified Developer Associate Practice Tests](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-5/?referralCode=CD3CD9076D77F6CECD80)
-- [[NEW] AWS Certified Solution Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solution-architect-associate-practice-tests/?referralCode=1D2375C381CB0C1D994C)
+- [[NEW] AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/?couponCode=JULY2022)
 
 
 ## OTHER COURSES
-- [Learn Java Automation Testing with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/?referralCode=0CAAEDF7C042BD1856A6)
-- [Python for Beginners - Learn Python in 100 Steps](https://www.udemy.com/course/python-tutorial-for-beginners/?referralCode=170406B98E0BFD880C92)
-- [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/?referralCode=024CADAE63D890210559)
+- [Learn Java Automation Testing with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/?couponCode=JULY2022)
+- [Python for Beginners - Learn Python in 100 Steps](https://www.udemy.com/course/python-tutorial-for-beginners/?couponCode=JULY2022)
+- [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/?couponCode=JULY2022)
 
 ## Course Platforms
 
